@@ -3,7 +3,7 @@
 ## 📫 Contact Information
 - **Email**: arorahardik0811@gmail.com
 - **Phone**: 📞 
-- **LinkedIn**: [linkedin.com/in/hardik0811arora]((https://www.linkedin.com/in/hardik0811arora/))
+- **LinkedIn**: [linkedin.com/in/hardik0811arora](https://www.linkedin.com/in/hardik0811arora/)
 - **GitHub**: [github.com/barbaria888](https://github.com/barbaria88)
 
 ---
