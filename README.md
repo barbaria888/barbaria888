@@ -3,8 +3,8 @@
 ## 📫 Contact Information
 - **Email**: arorahardik0811@gmail.com
 - [**LinkedIn**](https://www.linkedin.com/in/hardik0811arora/)
-- **GitHub**: [github.com/barbaria888](https://github.com/barbaria88)
-- **LeetCode**: [leetcode.com/arorahardik0811](https://leetcode.com/u/arorahardik0811/)
+- [**GitHub**](https://github.com/barbaria88)
+- [**LeetCode**:](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
