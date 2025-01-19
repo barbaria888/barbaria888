@@ -1,7 +1,7 @@
 # 👨‍💻|🥷 Hardik Arora
 
 ## 📫 Contact Information
-- **Email**:[arorahardik0811@gmail.com](mailto:arorahardik0811@gmail.com)    |    [**LinkedIn**](https://www.linkedin.com/in/hardik0811arora/)    |    [**GitHub**](https://github.com/barbaria88)    |    [**LeetCode**](https://leetcode.com/u/arorahardik0811/)
+- **Email**:[arorahardik0811@gmail.com](mailto:arorahardik0811@gmail.com)    |    [**LinkedIn**](https://www.linkedin.com/in/hardik0811arora/)    |[**GitHub**](https://github.com/barbaria88)    |    [**LeetCode**](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
@@ -41,8 +41,7 @@ I am an aspiring **software engineer** with a keen interest in understanding **h
 - **Tech Blogs**: Read articles on technology trends and programming tips.
 - **READING BOOKS**: Often read Finance 💹, tech👨🏻‍💻 ,and organisational management books🗂️ in leisure time 
 - **Podcasts**: Consume podcasts🎧 to get a dive into the most brilliant minds on the planet🌎
-- **Freak**: Working out 🏋 a little bit...
+- **Freak**  Working out 🏋 a little bit...
 - **Open Source Contribution**: Actively contribute to various open-source projects on GitHub.
-- **O**: Actively contribute to various open-source projects on GitHub.
-
+- **Problem Solving**  Engage in competitive programming on LeetCode and other platforms to enhance my proficiency in data structures and algorithms, ensuring a sharp and competitive edge.
 ---
