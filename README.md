@@ -1,7 +1,7 @@
 # 👨‍💻|🥷 Hardik Arora
 
 ## 📫 Contact Information
-- **Email**:[arorahardik0811@gmail.com](mailto:arorahardik0811@gmail.com)    |    [**LinkedIn**](https://www.linkedin.com/in/hardik0811arora/)    |    [**GitHub**](https://github.com/barbaria88)    [**LeetCode**](https://leetcode.com/u/arorahardik0811/)
+- **Email**:[arorahardik0811@gmail.com](mailto:arorahardik0811@gmail.com)    |    [**LinkedIn**](https://www.linkedin.com/in/hardik0811arora/)    |    [**GitHub**](https://github.com/barbaria88)    |    [**LeetCode**](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
