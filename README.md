@@ -1,10 +1,11 @@
-# 👨‍💻 Hardik Arora
+# 👨‍💻|🥷 Hardik Arora
 
 ## 📫 Contact Information
 - **Email**: arorahardik0811@gmail.com
-- **Phone**: 📞 
+- **Phone**: 📞
 - **LinkedIn**: [linkedin.com/in/hardik0811arora](https://www.linkedin.com/in/hardik0811arora/)
 - **GitHub**: [github.com/barbaria888](https://github.com/barbaria88)
+- **LeetCode**: [github.com/barbaria888]()
 
 ---
 
@@ -19,16 +20,15 @@ I am an aspiring **software engineer** with a keen interest in understanding **h
 
 ## 🛠️ Skills
 - **Programming Languages**: Java, JavaScript, Python, C,C++
-- **Web Technologies**: HTML, CSS, React,Node.js, Flask
-- **Databases**: MySQL,MongoDB 
-- **Tools & Frameworks**: Git,Github 
-- **Soft Skills**: Leadership  ,Team Collaboration, Problem-Solving, Interpersonal Communication , Hunger to Learn
+- **Web Technologies🌐**: HTML, CSS, React,JavaScript
+- **Tools & Frameworks⚙️**: Git,Github 
+- **Soft Skills**:  👨‍💼Leadership ,Team Collaboration, Problem-Solving🧮, Interpersonal Communication , 🔥Hunger to Learn🤔,Result oriented🎯,Go Getter🏃
 
 ---
 
 ---
 
-## 🎓 Education
+## 🧑‍🎓 Education
 - **Bachelor of Science in Computer Science**  
   [GLA University], [2022 -2026 (Ongoing)]
   
@@ -37,14 +37,16 @@ I am an aspiring **software engineer** with a keen interest in understanding **h
 
 ## 📜 Certifications
 - **Certified Scrum Master (CSM)** | Scrum Alliance | [Certification Date]
-- **AWS Certified Solutions Architect** | Amazon Web Services | [Certification Date]
+
 
 ---
 
 ## 🏋 Interests
-- **Open Source Contribution**: Actively contribute to various open-source projects on GitHub.
 - **Tech Blogs**: Read articles on technology trends and programming tips.
-- **READING BOOKS**: Often read Finance 💹 and tech👨🏻‍💻 related books as a leisure activity 
+- **READING BOOKS**: Often read Finance 💹, tech👨🏻‍💻 ,and organisational management books🗂️ in leisure time 
 - **Podcasts**: Consume podcasts🎧 to get a dive into the most brilliant minds on the planet🌎
 - **Freak**: Working out 🏋 a little bit...
+- **Open Source Contribution**: Actively contribute to various open-source projects on GitHub.
+- **O**: Actively contribute to various open-source projects on GitHub.
+
 ---
