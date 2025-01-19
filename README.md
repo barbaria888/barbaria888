@@ -3,9 +3,9 @@
 ## 📫 Contact Information
 - **Email**: arorahardik0811@gmail.com
 - **Phone**: 📞
-- **LinkedIn**: [linkedin.com/in/hardik0811arora](https://www.linkedin.com/in/hardik0811arora/)
+- **LinkedIn**: [linkedin.com/hardik0811arora](https://www.linkedin.com/in/hardik0811arora/)
 - **GitHub**: [github.com/barbaria888](https://github.com/barbaria88)
-- **LeetCode**: [github.com/barbaria888]()
+- **LeetCode**: [leetcode.com/arorahardik0811](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
