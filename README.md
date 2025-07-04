@@ -70,14 +70,14 @@ My background reflects a growing balance between **technical development**, **st
 
 | 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
 |-------------|----------------|---------------|-----------------------------|
-| Developing Front-End Apps with React | Coursera | Oct 2024 | [NQDP7Q7YC0UI]
-| JavaScript Programming Essentials | Coursera | Jul 2024 | [4X5D7F3T5MAW]
-| Getting Started with Git and GitHub | Coursera | Jun 2024 | [ABZM5MFCE8AK]
-| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | [4A36KC6HYLT8]
-| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | [C9HKNYW48MST]
-| Google Cloud Terraform Fundamentals | Google Cloud | May 2025 | Credential ID: M1OXVCPNMSP0 |
-| AWS Cloud Technical Essentials | Amazon Web Services | May 2025 | Credential ID: 3PLCJ0PPCVLZ |
-| AWS Certified Cloud Practitioner – Exam Prep | Amazon Web Services | May 2025 | Credential ID: NXQ3FCOAA5ZB |
+| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI
+| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW
+| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK
+| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8
+| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST
+| Google Cloud Terraform Fundamentals -Project| Coursera | June 2025 | Credential ID: M1OXVCPNMSP0 |
+| AWS Cloud Technical Essentials | Coursera | June 2025 | Credential ID: 3PLCJ0PPCVLZ |
+| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | Credential ID: NXQ3FCOAA5ZB |
 
 ---
 
