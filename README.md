@@ -1,52 +1,107 @@
-# 👨‍💻|🥷 Hardik Arora
+# 👨‍💻 | 🥷 Hardik Arora
 
 ## 📫 Contact Information
-- Email arorahardik0811@gmail.com 
-- [<img alt="Instagram" margin="4px 10px" width="50px" height="50px" src="https://icons.iconarchive.com/icons/pictogrammers/material/128/gmail-icon.png" />](mailto:arorahardik0811@gmail.com)    |    [**<img alt=" LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />**](https://www.linkedin.com/in/hardik0811arora/)    | [**<img alt="LeetCode" width="45px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png" />**](https://leetcode.com/u/arorahardik0811/)
+- **Email**: arorahardik0811@gmail.com  
+- [<img alt="Gmail" width="28px" src="https://icons.iconarchive.com/icons/pictogrammers/material/128/gmail-icon.png"/>](mailto:arorahardik0811@gmail.com)
+&nbsp;&nbsp;
+[<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/hardik0811arora/)
+&nbsp;&nbsp;
+[<img alt="LeetCode" width="28px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png"/>](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
-## 💼 Summary
-I am an aspiring **software engineer** with a keen interest in understanding **how things work** and  focusing upon to improve the efficiency.
+## 💼 Summary  
+I'm a **Computer Science undergraduate** who’s deeply curious about how things work — from code to systems to organizations. I’m particularly drawn to building scalable solutions, writing clean code, and contributing meaningfully to product development.
 
- Currently pursuing my degree in Computer Science, I am enthusiastic about applying my knowledge to solve real-world problems.
- I am passionate about learning and growing in the field of software development, and I am eager to contribute to **innovative projects as a Software Engineer.**
+My background reflects a growing balance between **technical development**, **strategic problem-solving**, and a strong **learning mindset**. I thrive on collaboration, continuous improvement, and applying knowledge where it matters.
 
- **My goal is to leverage my technical skills and curiosity to make meaningful contributions to any team I join.**
----
-
-## 🛠️ Skills
-- **Programming Languages**: Java, JavaScript, Python, C,C++
-- **Web Technologies🌐**: HTML, CSS, React,JavaScript
-- **Tools & Frameworks⚙️**: Git,Github 
-- **Soft Skills**:  👨‍💼Leadership ,Team Collaboration, Problem-Solving🧮, Interpersonal Communication , 🔥Hunger to Learn🤔,Result oriented🎯,Go Getter🏃
+> 📌 *“I'm not here just to learn the rules — I'm here to learn how to change the game.”*
 
 ---
 
+### 🛠️ Technical Skills
+
+## 💻 Programming & Development
+- **Languages**: Java, JavaScript, Python, C, C++
+- **Web Technologies**: HTML5, CSS3, React.js, JavaScript
+- **Tools & Platforms**: Git, GitHub  
+
+## ⚙️ Currently Brushing Up
+- **Core CS**: Operating Systems, DBMS, Computer Networks
+- **Problem Solving**: Data Structures & Algorithms (via LeetCode)
+## ☁️ Cloud & Infrastructure (Beginner to Intermediate)
+
+- **Cloud Platforms**: AWS, Google Cloud (GCP)
+- **IAM & Compute**: EC2, IAM roles/policies, S3 buckets, GCP Compute Engine
+- **Networking Concepts**: VPCs, subnets, firewalls (basic understanding)
+- **Monitoring**: CloudWatch (AWS), basic logging & alerts setup
+- **Storage**: S3 (AWS), Cloud Storage (GCP), DynamoDB basics
+
+## ⚙️ DevOps & Infrastructure as Code
+
+- **Terraform (Beginner)**: Resource provisioning, variables, modules  
+  *(in progress with Google Cloud + Codio courses)*
+- **Environments**: Familiar with CLI tools, Linux-based systems (Ubuntu), and cloud consoles
+
+
 ---
 
-## 🧑‍🎓 Education
-- **Bachelor of Science in Computer Science**  
-  [GLA University], [2022 -2026 (Ongoing)]
-  
+### 🧠 Core Strengths
+
+- **Structured Thinker**: Breaks down complexity with a step-by-step mindset — clarity before action.  
+- **Initiative-Driven**: Takes responsibility, moves fast, and figures things out even when paths aren’t obvious.  
+- **Effective Communicator**: Articulates both code and context clearly, across technical and non-technical audiences.  
+- **Collaborative by Nature**: Believes in learning from others and building things that are greater than the sum of parts.  
+- **Learning-Focused**: Obsessed with growth — reads, builds, and reflects.  
+- **Outcome-Oriented**: Gets things done, with quality and purpose.
 
 ---
 
-## 📜 Certifications
-- **Developing Front-End Apps with React** | Coursera | Issued Oct 2024 | Credential ID: NQDP7Q7YC0UI | [Show credential](https://coursera.org/verify/NQDP7Q7YC0UI)
-- **JavaScript Programming Essentials** | Coursera | Issued Jul 2024 | Credential ID: 4X5D7F3T5MAW | [Show credential](https://coursera.org/verify/4X5D7F3T5MAW)
-- **Getting Started with Git and GitHub** | Coursera | Issued Jun 2024 | Credential ID: ABZM5MFCE8AK | [Show credential](https://www.coursera.org/account/accomplishments/verify/ABZM5MFCE8AK)
-- **Introduction to HTML, CSS, & JavaScript** | Coursera | Issued Jun 2024 | Credential ID: 4A36KC6HYLT8 | [Show credential](https://www.coursera.org/account/accomplishments/records/4A36KC6HYLT8)
-- **Introduction to Software Engineering (with Honors)** | Coursera | Issued Jun 2024 | Credential ID: C9HKNYW48MST | [Show credential](https://www.coursera.org/account/accomplishments/records/C9HKNYW48MST)
-
+## 🎓 Education
+**Bachelor of Science in Computer Science**  
+*GLA University*  
+🗓️ *2022 – 2026 (Ongoing)*
 
 ---
 
-## 🏋 Interests
-- **Tech Blogs**: Read articles on technology trends and programming tips.
-- **READING BOOKS**: Often read Finance 💹, tech👨🏻‍💻 ,and organisational management books🗂️ in leisure time 
-- **Podcasts**: Consume podcasts🎧 to get a dive into the most brilliant minds on the planet🌎
-- **Freak**  Working out 🏋 a little bit...
-- **Open Source Contribution**: Actively contribute to various open-source projects on GitHub.
-- **Problem Solving**  Engage in competitive programming on LeetCode and other platforms to enhance my proficiency in data structures and algorithms, ensuring a sharp and competitive edge.
+## 📜 Certifications & Badges
+
+### 🏅 Certifications
+
+| 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
+|-------------|----------------|---------------|-----------------------------|
+| Developing Front-End Apps with React | Coursera | Oct 2024 | [NQDP7Q7YC0UI]
+| JavaScript Programming Essentials | Coursera | Jul 2024 | [4X5D7F3T5MAW]
+| Getting Started with Git and GitHub | Coursera | Jun 2024 | [ABZM5MFCE8AK]
+| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | [4A36KC6HYLT8]
+| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | [C9HKNYW48MST]
+| Google Cloud Terraform Fundamentals | Google Cloud | May 2025 | Credential ID: M1OXVCPNMSP0 |
+| AWS Cloud Technical Essentials | Amazon Web Services | May 2025 | Credential ID: 3PLCJ0PPCVLZ |
+| AWS Certified Cloud Practitioner – Exam Prep | Amazon Web Services | May 2025 | Credential ID: NXQ3FCOAA5ZB |
+
 ---
+
+### 🎖 Badges & Micro-Credentials (AWS Educate)
+
+| 📘 **Badge** | 🎓 **Platform** | 📅 **Issued** |
+|-------------|----------------|---------------|
+| AWS Educate: Getting Started with Compute | AWS Educate | May 2025 |
+| AWS Educate: Getting Started with Networking | AWS Educate | May 2025 |
+| AWS Educate: Getting Started with Storage | AWS Educate | Apr 2025 |
+| AWS Educate: Introduction to Cloud 101 | AWS Educate | Apr 2025 |
+| AWS Educate: Introduction to Generative AI | AWS Educate | Apr 2025 |
+
+---
+
+## 🎯 Interests
+
+- **📰 Tech Blogs** – Enjoy staying up to date with engineering trends, software architecture, and productivity hacks.
+- **📚 Reading** – Spend downtime diving into books on finance, technology, and organizational leadership.
+- **🎧 Podcasts** – Regular listener of tech, product, and founder podcasts to learn from industry leaders.
+- **🏋️ Fitness** – I believe personal growth is mental, physical, and emotional — and I work on all three.
+- **💻 Open Source** – Exploring ways to contribute meaningfully to real-world codebases.
+- **🧩 Problem Solving** – Actively improving DSA skills through platforms like LeetCode.
+
+---
+
+
