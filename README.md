@@ -15,7 +15,6 @@ I'm a **Computer Science undergraduate** who’s deeply curious about how things
 
 My background reflects a growing balance between **technical development**, **strategic problem-solving**, and a strong **learning mindset**. I thrive on collaboration, continuous improvement, and applying knowledge where it matters.
 
-> 📌 *“I'm not here just to learn the rules — I'm here to learn how to change the game.”*
 
 ---
 
