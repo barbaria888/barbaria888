@@ -9,6 +9,9 @@
 [<img alt="LeetCode" width="28px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png"/>](https://leetcode.com/u/arorahardik0811/)
 
 ---
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barbaria888&theme=react-dark)
 
 ## 💼 Summary  
 I'm a **Computer Science undergraduate** who’s deeply curious about how things work — from code to systems to organizations. I’m particularly drawn to building scalable solutions, writing clean code, and contributing meaningfully to product development.
