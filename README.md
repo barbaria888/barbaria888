@@ -68,35 +68,6 @@ My background reflects a growing balance between **technical development**, **st
 🗓️ *2022 – 2026 (Ongoing)*
 
 ---
-
-## 📜 Certifications & Badges
-
-### 🏅 Certifications
-
-| 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
-|-------------|----------------|---------------|-----------------------------|
-| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI |
-| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW |
-| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK |
-| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8 |
-| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST |
-| Google Cloud Terraform Fundamentals -Project | Coursera | June 2025 | M1OXVCPNMSP0 |
-| AWS Cloud Technical Essentials | Coursera | June 2025 | 3PLCJ0PPCVLZ |
-| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | NXQ3FCOAA5ZB |
-
----
-
-### 🎖 Badges & Micro-Credentials (AWS Educate + Google Cloud)
-
-| 📘 **Badge** | 🎓 **Platform** | 📅 **Issued** |
-|-------------|----------------|---------------|
-| AWS Educate: Getting Started with Compute | AWS Educate | May 2025 |
-| AWS Educate: Getting Started with Networking | AWS Educate | May 2025 |
-| AWS Educate: Getting Started with Storage | AWS Educate | Apr 2025 |
-| AWS Educate: Introduction to Cloud 101 | AWS Educate | Apr 2025 |
-| AWS Educate: Introduction to Generative AI | AWS Educate | Apr 2025 |
-
----
 ### 🏆 Featured Badges
 
 <p align="center">
@@ -118,6 +89,35 @@ My background reflects a growing balance between **technical development**, **st
   <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
   <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
 </p>
+
+---
+
+## 📜 Certifications & Badges
+
+### 🏅 Courses and Certificates
+
+| 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
+|-------------|----------------|---------------|-----------------------------|
+| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI |
+| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW |
+| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK |
+| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8 |
+| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST |
+| Google Cloud Terraform Fundamentals -Project | Coursera | June 2025 | M1OXVCPNMSP0 |
+| AWS Cloud Technical Essentials | Coursera | June 2025 | 3PLCJ0PPCVLZ |
+| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | NXQ3FCOAA5ZB |
+
+---
+
+### 🎖 Badges & Micro-Credentials (AWS Educate )
+
+| 📘 **Badge** | 🎓 **Platform** | 📅 **Issued** |
+|-------------|----------------|---------------|
+| AWS Educate: Getting Started with Compute | AWS Educate | May 2025 |
+| AWS Educate: Getting Started with Networking | AWS Educate | May 2025 |
+| AWS Educate: Getting Started with Storage | AWS Educate | Apr 2025 |
+| AWS Educate: Introduction to Cloud 101 | AWS Educate | Apr 2025 |
+| AWS Educate: Introduction to Generative AI | AWS Educate | Apr 2025 |
 
 ---
 
