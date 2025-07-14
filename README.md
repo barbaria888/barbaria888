@@ -1,132 +1,120 @@
 # 👨‍💻 | 🥷 Hardik Arora
 
-## 📫 Contact Information
-- **Email**: arorahardik0811@gmail.com  
-- [<img alt="Gmail" width="28px" src="https://icons.iconarchive.com/icons/pictogrammers/material/128/gmail-icon.png"/>](mailto:arorahardik0811@gmail.com)
-&nbsp;&nbsp;
-[<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/hardik0811arora/)
-&nbsp;&nbsp;
-[<img alt="LeetCode" width="28px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png"/>](https://leetcode.com/u/arorahardik0811/)
+## 📫 Contact  
+- 📧 [arorahardik0811@gmail.com](mailto:arorahardik0811@gmail.com)  
+- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/hardik0811arora/)  
+- [![LeetCode](https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png)](https://leetcode.com/u/arorahardik0811/)
 
 ---
 
-## 📊 GitHub Activity Graph
+## 🧭 About Me
+
+I’m a **Computer Science undergraduate (2022–2026)** with a passion for building scalable systems, solving real-world problems, and constantly learning. My interests blend **cloud computing**, **DevOps**, and **business strategy** — allowing me to bridge the gap between technology and impact.
+
+> *“For me, success means turning complexity into clarity and using tech to make decisions smarter, faster, and more meaningful.”*
+
+---
+
+## 💼 GitHub Highlights
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barbaria888&theme=react-dark)
-
-## 💼 Summary  
-I'm a **Computer Science undergraduate** who’s deeply curious about how things work — from code to systems to organizations. I’m particularly drawn to building scalable solutions, writing clean code, and contributing meaningfully to product development.
-
-My background reflects a growing balance between **technical development**, **strategic problem-solving**, and a strong **learning mindset**. I thrive on collaboration, continuous improvement, and applying knowledge where it matters.
-
----
-
-### 🛠️ Technical Skills
-
-## 💻 Programming & Development
-- **Languages**: Java, JavaScript, Python, C, C++
-- **Web Technologies**: HTML5, CSS3, React.js, JavaScript
-- **Tools & Platforms**: Git, GitHub  
-
-## ⚙️ Currently Brushing Up
-- **Core CS**: Operating Systems, DBMS, Computer Networks
-- **Problem Solving**: Data Structures & Algorithms (via LeetCode)
-
-## ☁️ Cloud & Infrastructure (Beginner to Intermediate)
-- **Cloud Platforms**: AWS, Google Cloud (GCP)
-- **IAM & Compute**: EC2, IAM roles/policies, S3 buckets, GCP Compute Engine
-- **Networking Concepts**: VPCs, subnets, firewalls (basic understanding)
-- **Monitoring**: CloudWatch (AWS), basic logging & alerts setup
-- **Storage**: S3 (AWS), Cloud Storage (GCP), DynamoDB basics
-
-## ⚙️ DevOps & Infrastructure as Code
-- **Terraform (Beginner)**: Resource provisioning, variables, modules  
-  *(in progress with Google Cloud + Codio courses)*
-- **Environments**: Familiar with CLI tools, Linux-based systems (Ubuntu), and cloud consoles
-
----
-
-<!-- GitHub Stats -->
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical)
-
-<!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barbaria888&theme=radical)
 
-### 🧠 Core Strengths
-- **Structured Thinker**: Breaks down complexity with a step-by-step mindset — clarity before action.  
-- **Initiative-Driven**: Takes responsibility, moves fast, and figures things out even when paths aren’t obvious.  
-- **Effective Communicator**: Articulates both code and context clearly, across technical and non-technical audiences.  
-- **Collaborative by Nature**: Believes in learning from others and building things that are greater than the sum of parts.  
-- **Learning-Focused**: Obsessed with growth — reads, builds, and reflects.  
-- **Outcome-Oriented**: Gets things done, with quality and purpose.
+---
+
+## 🧠 Core Strengths
+
+- 🧩 **Structured Thinking** – Breaks down problems with step-by-step clarity.  
+- ⚡ **Self-Starter** – Moves fast, figures things out, and takes responsibility.  
+- 📣 **Clear Communicator** – Explains both code and context across audiences.  
+- 🤝 **Collaborative** – Values team synergy and co-building solutions.  
+- 🌱 **Always Learning** – Obsessed with growth, feedback, and reflection.  
+- 🎯 **Outcome-Oriented** – Executes with focus, precision, and purpose.
 
 ---
 
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-*GLA University*  
-🗓️ *2022 – 2026 (Ongoing)*
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- **Languages**: Java, JavaScript, Python, C, C++
+- **Web**: HTML5, CSS3, React.js  
+- **Tools**: Git, GitHub, VS Code
+
+### ⚙️ Systems & Infrastructure
+- **CS Foundations**: OS, DBMS, CN (brushing up via GeeksforGeeks)
+- **Problem Solving**: DSA via LeetCode (Active)
+- **Cloud Platforms**: AWS, GCP (Hands-on beginner to intermediate)
+- **Services**: EC2, IAM, S3, CloudWatch, Compute Engine, VPC
+- **Infra as Code**: Terraform (in progress – modules, remote backend)
 
 ---
-### 🏆 Featured Badges
+
+## 📜 Certifications & Micro-Credentials
+
+### 🏅 Key Courses
+
+| Title | Platform | Issued |
+|-------|----------|--------|
+| **AWS Cloud Technical Essentials** | Coursera | Jun 2025 |
+| **Google Cloud Terraform Fundamentals – Project** | Coursera | Jun 2025 |
+| **AWS Cloud Practitioner – Exam Prep** | Coursera | Jun 2025 |
+| **JavaScript Programming Essentials** | Coursera | Jul 2024 |
+| **Intro to Git & GitHub** | Coursera | Jun 2024 |
+| **Intro to HTML, CSS & JS** | Coursera | Jun 2024 |
+| **Intro to Software Engineering (Honors)** | Coursera | Jun 2024 |
+
+### 🎖 AWS Educate Badges
+
+| Badge | Issued |
+|-------|--------|
+| Cloud 101 | Apr 2025 |
+| Compute | May 2025 |
+| Storage | Apr 2025 |
+| Networking | May 2025 |
+| GenAI Basics | Apr 2025 |
+
+---
+
+## 🏆 Featured Badges
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">
     <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="250"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank">
+  &nbsp;
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">
     <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate Badge" width="250"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" target="_blank">
+  &nbsp;
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovators Badge" width="250"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Winner</a> &nbsp;|&nbsp;
-  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
-  <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🎮 Cloud Arcade Winner</a> &nbsp;|&nbsp;
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🌩️ AWS Educate Member</a> &nbsp;|&nbsp;
+  <a href="https://developers.google.com/community/innovators">🚀 Google Cloud Innovator</a>
 </p>
 
 ---
 
-## 📜 Certifications & Badges
+## 🎓 Education
 
-### 🏅 Courses and Certificates
-
-| 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
-|-------------|----------------|---------------|-----------------------------|
-| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI |
-| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW |
-| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK |
-| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8 |
-| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST |
-| Google Cloud Terraform Fundamentals -Project | Coursera | June 2025 | M1OXVCPNMSP0 |
-| AWS Cloud Technical Essentials | Coursera | June 2025 | 3PLCJ0PPCVLZ |
-| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | NXQ3FCOAA5ZB |
+**Bachelor of Science in Computer Science**  
+📍 GLA University  
+📅 2022 – 2026 (Ongoing)
 
 ---
 
-### 🎖 Badges & Micro-Credentials (AWS Educate )
+## 🎯 Personal Interests
 
-| 📘 **Badge** | 🎓 **Platform** | 📅 **Issued** |
-|-------------|----------------|---------------|
-| AWS Educate: Getting Started with Compute | AWS Educate | May 2025 |
-| AWS Educate: Getting Started with Networking | AWS Educate | May 2025 |
-| AWS Educate: Getting Started with Storage | AWS Educate | Apr 2025 |
-| AWS Educate: Introduction to Cloud 101 | AWS Educate | Apr 2025 |
-| AWS Educate: Introduction to Generative AI | AWS Educate | Apr 2025 |
+- 🧠 Tech Podcasts & Case Studies  
+- 📘 Reading on Tech, Strategy & Finance  
+- 🏋️ Fitness & Mental Resilience  
+- 💡 Open Source & Real-world Projects 
+- 🧩 Problem Solving & Designing Solutions
 
 ---
-
-## 🎯 Interests
-
-- **📰 Tech Blogs** – Enjoy staying up to date with engineering trends, software architecture, and productivity hacks.
-- **📚 Reading** – Spend downtime diving into books on finance, technology, and organizational leadership.
-- **🎧 Podcasts** – Regular listener of tech, product, and founder podcasts to learn from industry leaders.
-- **🏋️ Fitness** – I believe personal growth is mental, physical, and emotional — and I work on all three.
-- **💻 Open Source** – Exploring ways to contribute meaningfully to real-world codebases.
-- **🧩 Problem Solving** – Actively improving DSA skills through platforms like LeetCode.
 
