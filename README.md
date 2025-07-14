@@ -9,6 +9,7 @@
 [<img alt="LeetCode" width="28px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png"/>](https://leetcode.com/u/arorahardik0811/)
 
 ---
+
 ## 📊 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barbaria888&theme=react-dark)
@@ -17,7 +18,6 @@
 I'm a **Computer Science undergraduate** who’s deeply curious about how things work — from code to systems to organizations. I’m particularly drawn to building scalable solutions, writing clean code, and contributing meaningfully to product development.
 
 My background reflects a growing balance between **technical development**, **strategic problem-solving**, and a strong **learning mindset**. I thrive on collaboration, continuous improvement, and applying knowledge where it matters.
-
 
 ---
 
@@ -31,8 +31,8 @@ My background reflects a growing balance between **technical development**, **st
 ## ⚙️ Currently Brushing Up
 - **Core CS**: Operating Systems, DBMS, Computer Networks
 - **Problem Solving**: Data Structures & Algorithms (via LeetCode)
-## ☁️ Cloud & Infrastructure (Beginner to Intermediate)
 
+## ☁️ Cloud & Infrastructure (Beginner to Intermediate)
 - **Cloud Platforms**: AWS, Google Cloud (GCP)
 - **IAM & Compute**: EC2, IAM roles/policies, S3 buckets, GCP Compute Engine
 - **Networking Concepts**: VPCs, subnets, firewalls (basic understanding)
@@ -40,13 +40,12 @@ My background reflects a growing balance between **technical development**, **st
 - **Storage**: S3 (AWS), Cloud Storage (GCP), DynamoDB basics
 
 ## ⚙️ DevOps & Infrastructure as Code
-
 - **Terraform (Beginner)**: Resource provisioning, variables, modules  
   *(in progress with Google Cloud + Codio courses)*
 - **Environments**: Familiar with CLI tools, Linux-based systems (Ubuntu), and cloud consoles
 
-
 ---
+
 <!-- GitHub Stats -->
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical)
 
@@ -54,7 +53,6 @@ My background reflects a growing balance between **technical development**, **st
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barbaria888&theme=radical)
 
 ### 🧠 Core Strengths
-
 - **Structured Thinker**: Breaks down complexity with a step-by-step mindset — clarity before action.  
 - **Initiative-Driven**: Takes responsibility, moves fast, and figures things out even when paths aren’t obvious.  
 - **Effective Communicator**: Articulates both code and context clearly, across technical and non-technical audiences.  
@@ -77,18 +75,18 @@ My background reflects a growing balance between **technical development**, **st
 
 | 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
 |-------------|----------------|---------------|-----------------------------|
-| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI
-| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW
-| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK
-| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8
-| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST
-| Google Cloud Terraform Fundamentals -Project| Coursera | June 2025 | Credential ID: M1OXVCPNMSP0 |
-| AWS Cloud Technical Essentials | Coursera | June 2025 | Credential ID: 3PLCJ0PPCVLZ |
-| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | Credential ID: NXQ3FCOAA5ZB |
+| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI |
+| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW |
+| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK |
+| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8 |
+| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST |
+| Google Cloud Terraform Fundamentals -Project | Coursera | June 2025 | M1OXVCPNMSP0 |
+| AWS Cloud Technical Essentials | Coursera | June 2025 | 3PLCJ0PPCVLZ |
+| AWS Certified Cloud Practitioner – Exam Prep | Coursera | June 2025 | NXQ3FCOAA5ZB |
 
 ---
 
-### 🎖 Badges & Micro-Credentials (AWS Educate)
+### 🎖 Badges & Micro-Credentials (AWS Educate + Google Cloud)
 
 | 📘 **Badge** | 🎓 **Platform** | 📅 **Issued** |
 |-------------|----------------|---------------|
@@ -100,6 +98,14 @@ My background reflects a growing balance between **technical development**, **st
 
 ---
 
+### 🏆 Featured Badge
+
+[![Google Cloud Arcade – July Week 1 Trivia Winner](https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D)](https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
+
+(https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
+
+---
+
 ## 🎯 Interests
 
 - **📰 Tech Blogs** – Enjoy staying up to date with engineering trends, software architecture, and productivity hacks.
@@ -108,7 +114,4 @@ My background reflects a growing balance between **technical development**, **st
 - **🏋️ Fitness** – I believe personal growth is mental, physical, and emotional — and I work on all three.
 - **💻 Open Source** – Exploring ways to contribute meaningfully to real-world codebases.
 - **🧩 Problem Solving** – Actively improving DSA skills through platforms like LeetCode.
-
----
-
 
