@@ -108,7 +108,7 @@ My background reflects a growing balance between **technical development**, **st
     <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate Badge" width="250"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://developers.google.com/community/innovators" target="_blank">
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" target="_blank">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovators Badge" width="250"/>
   </a>
 </p>
