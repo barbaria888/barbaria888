@@ -100,9 +100,11 @@ My background reflects a growing balance between **technical development**, **st
 
 ### 🏆 Featured Badge
 
-[![Google Cloud Arcade – July Week 1 Trivia Winner](https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D)](https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
+<a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
+  <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="300"/>
+</a>
 
-(https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
+[🔗 View this badge on Google Cloud Skills Boost »](https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
 
 ---
 
