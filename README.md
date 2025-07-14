@@ -97,14 +97,27 @@ My background reflects a growing balance between **technical development**, **st
 | AWS Educate: Introduction to Generative AI | AWS Educate | Apr 2025 |
 
 ---
+### 🏆 Featured Badges
 
-### 🏆 Featured Badge
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
+    <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="250"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank">
+    <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate Badge" width="250"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developers.google.com/community/innovators" target="_blank">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovators Badge" width="250"/>
+  </a>
+</p>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
-  <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="300"/>
-</a>
-
-[🔗 View this badge on Google Cloud Skills Boost »](https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449)
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Winner</a> &nbsp;|&nbsp;
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
+  <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
+</p>
 
 ---
 
