@@ -86,7 +86,7 @@ My background reflects a growing balance between **technical development**, **st
 </p>
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Winner</a> &nbsp;|&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Trivia</a> &nbsp;|&nbsp;
   <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
   <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
 </p>
