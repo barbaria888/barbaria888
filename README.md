@@ -69,11 +69,15 @@ My background reflects a growing balance between **technical development**, **st
 
 ---
 
-### 🏆 Featured Badges
+## 🏆 Featured Badges
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
     <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="250"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D" target="_blank">
+    <img src="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D" alt="Advanced App Operations - Google Cloud Arcade" width="250"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank">
@@ -87,6 +91,7 @@ My background reflects a growing balance between **technical development**, **st
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Trivia</a> &nbsp;|&nbsp;
+  <a href="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D">🔗 Advanced App Operations</a> &nbsp;|&nbsp;
   <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
   <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
 </p>
@@ -129,6 +134,6 @@ My background reflects a growing balance between **technical development**, **st
 - **🎧 Podcasts** – Learn from tech founders and product leaders.  
 - **🏋️ Fitness** – Mental, physical, and emotional growth.  
 - **💻 Open Source** – Seeking ways to contribute meaningfully.  
-- **🧩 Problem Solving** – Designing,implementing and learning to optimize solutions for real world use-cases.
+- **🧩 Problem Solving** – Designing, implementing and learning to optimize solutions for real world use-cases.
 
 ---
