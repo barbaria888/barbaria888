@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Hardik Arora</h1>
 <h3 align="center">
 He/Him · Cloud Native & DevOps Engineer · CS '26  
-⎈ Kubernetes · ☁️ Multi-Cloud · 🧠 Infrastructure as Code · ⚙️ Automation  
+⎈ Kubernetes · ☁️· 🧠 · ⚙️ Automation  
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 ## 💡 About Me
 
 🚀 Passionate about building **resilient, scalable cloud-native systems** using Kubernetes, Terraform, Argo CD, and CI/CD automation.  
-🌩️ Hands-on with **AWS**, **GCP (GKE)**, **IBM Cloud**, and **Oracle Cloud Infrastructure**.  
+🌩️ Hands-on with **AWS**, **GCP**, **IBM Cloud**,**openshift**
 🧭 I’m driven by impact, continuous learning, and the craft of reliable infrastructure — where engineering meets evolution.  
 
 ---
@@ -91,8 +91,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 
 ## 💬 Quote to Code By
 
-> _“Automate what you can. Understand what you automate.  
-Evolve faster than your last deployment.”_ ⚙️
+> _““The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.””_ Kelsey Hightower
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -100,4 +99,4 @@ Evolve faster than your last deployment.”_ ⚙️
 
 ---
 
-⭐ _Fueled by curiosity · Built on Linux · Shipped to the Cloud_ ☁️
+
