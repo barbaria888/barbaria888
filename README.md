@@ -1,139 +1,97 @@
-# 👨‍💻 | 🥷 Hardik Arora
+<!-- 💫 Hardik Arora's GitHub Profile README -->
 
-## 📫 Contact Information
-- **Email**: arorahardik0811@gmail.com  
-- [<img alt="Gmail" width="28px" src="https://icons.iconarchive.com/icons/pictogrammers/material/128/gmail-icon.png"/>](mailto:arorahardik0811@gmail.com)
-&nbsp;&nbsp;
-[<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/hardik0811arora/)
-&nbsp;&nbsp;
-[<img alt="LeetCode" width="28px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/leetcode-icon.png"/>](https://leetcode.com/u/arorahardik0811/)
-
----
-
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barbaria888&theme=react-dark)
-
-## 💼 Summary  
-I'm a **Computer Science undergraduate** who’s deeply curious about how things work — from code to systems to organizations. I’m particularly drawn to building scalable solutions, writing clean code, and contributing meaningfully to product development.
-
-My background reflects a growing balance between **technical development**, **strategic problem-solving**, and a strong **learning mindset**. I thrive on collaboration, continuous improvement, and applying knowledge where it matters.
-
----
-
-### 🛠️ Technical Skills
-
-## 💻 Programming & Development
-- **Languages**: Java, JavaScript, Python, C, C++
-- **Web Technologies**: HTML5, CSS3, React.js
-- **Tools & Platforms**: Git, GitHub  
-
-## ⚙️ Currently Brushing Up
-- **Core CS**: Operating Systems, DBMS, Computer Networks
-- **Problem Solving**: Data Structures & Algorithms (via LeetCode)
-
-## ☁️ Cloud & Infrastructure (Beginner to Intermediate)
-- **Cloud Platforms**: AWS, Google Cloud (GCP)
-- **IAM & Compute**: EC2, IAM roles/policies, S3 buckets, GCP Compute Engine
-- **Networking**: VPCs, subnets, firewalls (basic understanding)
-- **Monitoring**: CloudWatch (AWS), basic logging & alerts
-- **Storage**: S3 (AWS), Cloud Storage (GCP), DynamoDB basics
-
-## ⚙️ DevOps & Infrastructure as Code
-- **Terraform**: Resource provisioning, variables, modules  
-  *(In progress via Google Cloud + Codio)*
-- **Environments**: Familiar with CLI tools, Linux (Ubuntu), cloud consoles
-
----
-
-<!-- GitHub Stats -->
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barbaria888&theme=radical)
-
-### 🧠 Core Strengths
-- **Structured Thinker**: Breaks down complexity step-by-step.  
-- **Initiative-Driven**: Takes responsibility, acts even in ambiguity.  
-- **Effective Communicator**: Explains both code and context.  
-- **Collaborative by Nature**: Builds with and learns from others.  
-- **Learning-Focused**: Reads, builds, reflects — always improving.  
-- **Outcome-Oriented**: Quality-driven and impact-focused.
-
----
-
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-*GLA University*  
-🗓️ *2022 – 2026 (Ongoing)*
-
----
-
-## 🏆 Featured Badges
+<h1 align="center">👋 Hey, I'm Hardik Arora</h1>
+<h3 align="center">
+He/Him · Cloud Native DevOps Engineer · CS ’26  
+⎈ Kubernetes · 🐳 Docker · 🏗️ Terraform · ☁️ GCP · AWS · OCI Certified  
+</h3>
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449" target="_blank">
-    <img src="https://cdn.qwiklabs.com/PbxtVE0V6R%2F8Mr9MmtZAloV8BXtkiBqT22OfzCw7ZTQ%3D" alt="Google Cloud Arcade Badge" width="250"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D" target="_blank">
-    <img src="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D" alt="Advanced App Operations - Google Cloud Arcade" width="250"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank">
-    <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate Badge" width="250"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" target="_blank">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovators Badge" width="250"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e084697c-2e8b-45ca-a26c-766951118d6a/badges/16949449">🔗 Cloud Arcade Trivia</a> &nbsp;|&nbsp;
-  <a href="https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D">🔗 Advanced App Operations</a> &nbsp;|&nbsp;
-  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png">🔗 AWS Educate Member</a> &nbsp;|&nbsp;
-  <a href="https://developers.google.com/community/innovators">🔗 Google Cloud Innovator</a>
+<i>Thinking in impact, Building with purpose</i> 🌍
 </p>
 
 ---
 
-## 📜 Certifications & Badges
-
-### 🏅 Courses and Certificates
-
-| 📘 **Title** | 🎓 **Platform** | 📅 **Issued** | 🔗 **Credential** |
-|-------------|----------------|---------------|-----------------------------|
-| Developing Front-End Apps with React | Coursera | Oct 2024 | NQDP7Q7YC0UI |
-| JavaScript Programming Essentials | Coursera | Jul 2024 | 4X5D7F3T5MAW |
-| Getting Started with Git and GitHub | Coursera | Jun 2024 | ABZM5MFCE8AK |
-| Introduction to HTML, CSS, & JavaScript | Coursera | Jun 2024 | 4A36KC6HYLT8 |
-| Introduction to Software Engineering (with Honors) | Coursera | Jun 2024 | C9HKNYW48MST |
-| Google Cloud Terraform Fundamentals - Project | Coursera | Jun 2025 | M1OXVCPNMSP0 |
-| AWS Cloud Technical Essentials | Coursera | Jun 2025 | 3PLCJ0PPCVLZ |
-| AWS Certified Cloud Practitioner – Exam Prep | Coursera | Jun 2025 | NXQ3FCOAA5ZB |
+### 💡 About Me  
+🚀 I build **scalable, resilient systems** using cloud-native automation — turning code into production-grade infra with **Kubernetes, Docker, Terraform**, and **CI/CD pipelines**.  
+🌩️ Hands-on with **GCP** & **AWS**, I deploy **event-driven, observable, and secure workloads** that balance performance, cost, and developer experience.  
+🧭 Driven by clear thinking, continuous learning, and impact-first engineering — I ship systems that don’t just work, they **evolve**.  
 
 ---
 
-### 🎖 AWS Educate Badges
+### 🧰 Tech Arsenal
 
-| 📘 **Badge** | 📅 **Issued** |
-|-------------|---------------|
-| AWS Educate: Getting Started with Compute | May 2025 |
-| AWS Educate: Getting Started with Networking | May 2025 |
-| AWS Educate: Getting Started with Storage | Apr 2025 |
-| AWS Educate: Introduction to Cloud 101 | Apr 2025 |
-| AWS Educate: Introduction to Generative AI | Apr 2025 |
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="48" alt="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="48" alt="Terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="GCP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle Cloud" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" />
+</p>
+
+---
+
+### 🪪 Certifications & Badges Wall  
+
+#### 🧠 **Google Cloud Training**
+- 🏗️ [Getting Started with GKE](https://www.cloudskillsboost.google/public_profiles/...)  
+- 🧱 [Developing Containerized Applications on Google Cloud](https://www.cloudskillsboost.google/public_profiles/...)  
+- ⚙️ [Terraform Fundamentals](https://www.cloudskillsboost.google/public_profiles/...)  
+- ☁️ [Infrastructure & Application Modernization](https://www.cloudskillsboost.google/public_profiles/...)  
+- 🌩️ [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/public_profiles/...)
+
+#### 🦋 **IBM**
+- 🧩 [Containers & Kubernetes Essentials](https://www.credly.com/badges/ec630daa-3c9b-4cbb-aaeb-49402934bb15)
+- 🔄 [CI/CD Foundations](https://www.credly.com/badges/NKJAD1MZW2CN)
+- 🧠 [Getting Started with Git and GitHub](https://www.credly.com/badges/ABZM5MFCE8AK)
+
+#### ☁️ **Amazon Web Services**
+- 🌍 [AWS Cloud Technical Essentials](https://www.credly.com/badges/3PLCJ0PPCVLZ)
+- 🧱 [Cloud Support Essentials](https://www.credly.com/badges/SMHMLPW52M8H)
+- 🔰 [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.credly.com/badges/NXQ3FCOAA5ZB)
+- 🖥️ [AWS Educate – Cloud 101](https://www.credly.com/badges/...)
+
+#### 🧿 **Oracle**
+- 🪶 [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=...)
+
+#### 🧩 **University of Virginia**
+- 🎯 [Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/certificate/G277V6909EBX)
 
 ---
 
-## 🎯 Interests
+### 🌐 Connect & Collaborate
 
-- **📰 Tech Blogs** – Follow trends in software architecture and productivity.  
-- **📚 Reading** – Books on finance, tech, leadership.  
-- **🎧 Podcasts** – Learn from tech founders and product leaders.  
-- **🏋️ Fitness** – Mental, physical, and emotional growth.  
-- **💻 Open Source** – Seeking ways to contribute meaningfully.  
-- **🧩 Problem Solving** – Designing, implementing and learning to optimize solutions for real world use-cases.
+<p align="center">
+<a href="https://github.com/barbaria888" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@arorahardik0811" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://hashnode.com/@Hardik888" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
 
 ---
+
+### ⚙️ GitHub Stats Wall  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barbaria888&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=barbaria888&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 💬 “Let’s build the future of infra — together.”  
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐ **Inspired by continuous learning, powered by open source.**
