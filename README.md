@@ -91,7 +91,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 
 ## 💬 Quote to Code By
 
-> _““The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.””_ Kelsey Hightower
+> _““The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.””_ - Kelsey Hightower
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
