@@ -24,7 +24,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 
 <p align="center">
 <!-- Core Cloud-Native Stack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50" alt="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="85" alt="Kubernetes" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
 
