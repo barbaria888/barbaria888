@@ -13,7 +13,7 @@
 ---
 
 # 🚀 **Cloud-Native Toolkit (Sticker Style)**
-
+<img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" height="70" />
 <p align="center">
   <img src="https://camo.githubusercontent.com/70d9cfcc9d41cffd5feec04634f4953a4760e05343b3c1d645ea5d67d23fbf56/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f6b756265726e657465732e737667" height="70"/>
 
