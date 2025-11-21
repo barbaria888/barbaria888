@@ -1,102 +1,56 @@
-<!-- 💫 Hardik Arora's GitHub Profile README -->
-
-<h1 align="center">👨‍💻 Hardik Arora</h1>
-<h3 align="center">
-He/Him · Cloud Native & DevOps Engineer · CS '26  
-⎈ Kubernetes · ☁️· 🧠 · ⚙️ Automation  
-</h3>
-
+<!-- HEADER BANNER -->
 <p align="center">
-<i>Thinking in systems, building with purpose, automating with intent.</i> ✨
+  <img src="https://camo.githubusercontent.com/22e3c5613f98a3cc7f0f37067e96b77f1c122ceeefc856910d7b8d62849c076c/68747470733a2f2f692e696d6775722e636f6d2f4b6e4633716c692e676966" width="700"/>
 </p>
 
 ---
 
-## 💡 About Me
-
-🚀 Passionate about building **resilient, scalable cloud-native systems** using Kubernetes, Terraform, Argo CD, and CI/CD automation.  
-🌩️ Hands-on with **AWS**, **GCP**, **IBM Cloud**,**openshift**
-🧭 I’m driven by impact, continuous learning, and the craft of reliable infrastructure — where engineering meets evolution.  
-
----
-
-## 🧰 Tech & Tool Arsenal
-
+# ☁️ Cloud • ⚙️ DevOps • ⎈ Kubernetes  
 <p align="center">
-<!-- Core Cloud-Native Stack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50" alt="Kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle Cloud" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" height="50" alt="IBM Cloud" />
-
-<!-- DevOps Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
-<img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.svg" height="50" alt="Argo CD" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" height="50" alt="OpenShift" />
-<img src="https://cncf-branding.netlify.app/img/projects/cncf/horizontal/color/cncf-color.svg" height="50" alt="CNCF" />
-
-<!-- Infra & Automation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://camo.githubusercontent.com/a3afc2c118db740bb028f1f486828224f8d80b6866d63e7c9f18c9b0ce3f4bf3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55584f74326f665657666a79342f67697068792e676966" width="350"/>
 </p>
 
 ---
 
-## 🪪 Certifications & Badges Wall  
-
-### ☁️ **Cloud & DevOps Certifications**
-- 🏗️ **Google Cloud** – GKE, Terraform, App Modernization, Cloud Ops  
-- 🧱 **AWS** – Cloud Technical Essentials, Cloud Practitioner Prep, Cloud 101  
-- 🔧 **IBM Cloud** – Kubernetes Essentials, CI/CD Foundations, Git & GitHub  
-- 🧿 **Oracle Cloud** – OCI Certified Foundations Associate  
-- 🦋 **CNCF Stack** – Working with GKE, Argo CD, Tekton, and OpenShift  
-- 🎓 **Coursera & University Programs** – Design Thinking (UVA), Software Engineering, Front-End Apps, Git Essentials  
+# 🚀 **Cloud-Native Toolkit (Sticker Style)**
 
 <p align="center">
-  <a href="https://www.credly.com/users/hardik-arora/badges" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=barbaria888&theme=onedark&no-frame=true&row=1&column=6" alt="Trophy Wall" />
-  </a>
+  <img src="https://camo.githubusercontent.com/70d9cfcc9d41cffd5feec04634f4953a4760e05343b3c1d645ea5d67d23fbf56/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f6b756265726e657465732e737667" height="70"/>
+
+  <img src="https://camo.githubusercontent.com/2fc44cc979a69fae76eada1310df2a4a59861bf7d1b3f7136c39c994ed92c8f9/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f646f636b65722e737667" height="70"/>
+
+  <img src="https://camo.githubusercontent.com/fc722c6d98e91e7ed76fe3831dc93e9dc08dd7da4e95bbf75b764c042a5a2b0f/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f67706c2e737667" height="70"/>
+
+  <img src="https://camo.githubusercontent.com/9f668dbc2767a6cdf0a7c0f1f3f4de30fdf4c0b67f16bb81b79bdf741c4a181c/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f6177732e737667" height="70"/>
+
+  <img src="https://camo.githubusercontent.com/1e27bd3e7cf1943cd86a7a307a92e4dd3f8e8b17404bab7df7e76bc74a58575c/68747470733a2f2f7377697373656c61622e6769746875622e696f2f636c6f75642d6e61746976652d737469636b6572732f7465727261666f726d2e737667" height="70"/>
+
+  <img src="https://camo.githubusercontent.com/92b95135406c574786533c41830f00e650b8d3465e4a363cfa9caa99afb93816/68747470733a2f2f6172676f2d63642e72656164746865646f63732e696f2f656e2f737461626c652f6173736574732f6172676f2e737667" height="70"/>
 </p>
 
 ---
 
-## ⚙️ GitHub Stats Wall  
+# 🌀 GitOps & Automation
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barbaria888&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barbaria888&theme=react-dark&hide_border=true" width="95%" />
+  <img src="https://camo.githubusercontent.com/f2cee8abeaff5a72410820a17a19e72d5bdd5a3ad3f42ab4895a0b5c7d3ee8af/68747470733a2f2f692e696d6775722e636f6d2f4b634c6e7657462e676966" width="480"/>
 </p>
 
 ---
 
-## 🌐 Connect & Collaborate
+# 🛠️ CI/CD • SRE • Infra-as-Code (GIF Zone)
 
 <p align="center">
-<a href="mailto:arorahardik0811@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hardik0811arora/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/barbaria888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://hashnode.com/@Hardik888"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://medium.com/@arorahardik0811"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src=\"https://camo.githubusercontent.com/4f6c8ccd88b37f89eb2c442a864779c49ba2f4aa2325405cb9184160a95cace0/68747470733a2f2f692e696d6775722e636f6d2f717a414a67536c2e676966\" width=\"420\" />
+
+  <img src=\"https://camo.githubusercontent.com/8adefaf77a3d8a2385556f2d78afee5f2e9d47f6cb3c57cf97e0cf43db8dcad4/68747470733a2f2f692e696d6775722e636f6d2f346d74794b6c362e676966\" width=\"420\" />
 </p>
 
 ---
 
-## 💬 Quote to Code By
-
-> _““The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.””_ <br>- Kelsey Hightower
+# 🪪 **Certification Wall (Sticker Style)**
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <img src="https://camo.githubusercontent.com/e84fca97ef9b22f1a785091f845a70ad785ce93d2e607cdd4a8460c6fb5698d3/68747470733a2f2f692e696d6775722e636f6d2f4d4e6d6d704c632e706e67" width="130"/>
 
----
-
-
+  <img src="https://camo.githubusercontent.com/90423dd8b187ed65938202b3d9a70fb6d0cdd17826ccdb39b835984fcb63c19a/68747470733a2f2f692e696d6
