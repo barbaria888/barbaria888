@@ -35,7 +35,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
 <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" height="50" alt="OpenShift" />
-<img src="https://cncf-branding.netlify.app/img/projects/cncf/horizontal/color/cncf-color.svg" height="50" alt="CNCF" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg" width="1"/>
 
 <!-- Infra & Automation -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
