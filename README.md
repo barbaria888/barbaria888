@@ -56,12 +56,6 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 - 🦋 **CNCF Stack** – Working with GKE, Argo CD, Tekton, and OpenShift  
 - 🎓 **Coursera & University Programs** – Design Thinking (UVA), Software Engineering, Front-End Apps, Git Essentials  
 
-<p align="center">
-  
-    <img src="https://github-profile-trophy.vercel.app/?username=barbaria888&theme=onedark&no-frame=true&row=1&column=6" alt="Trophy Wall" />
-  </a>
-</p>
-
 ---
 
 ## ⚙️ GitHub Stats Wall  
