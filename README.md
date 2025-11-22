@@ -57,7 +57,7 @@ He/Him · Cloud Native & DevOps Engineer · CS '26
 - 🎓 **Coursera & University Programs** – Design Thinking (UVA), Software Engineering, Front-End Apps, Git Essentials  
 
 <p align="center">
-  <a href="https://www.credly.com/users/hardik-arora/badges" target="_blank">
+  
     <img src="https://github-profile-trophy.vercel.app/?username=barbaria888&theme=onedark&no-frame=true&row=1&column=6" alt="Trophy Wall" />
   </a>
 </p>
