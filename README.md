@@ -2,7 +2,7 @@
 
 <h1 align="center">👨‍💻 Hardik Arora</h1>
 <h3 align="center">
-He/Him · Cloud Native & DevOps Engineer · CS '26  
+He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26  
 ⎈ Kubernetes · ☁️· 🧠 · ⚙️ Automation  
 </h3>
 
