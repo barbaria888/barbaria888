@@ -5,7 +5,10 @@
 He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26  
 ⎈ Kubernetes · ☁️· 🧠 · ⚙️ Automation  
 </h3>
-![Visitors](https://img.shields.io/badge/Profile%20Views-Tracking-blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
 
 
