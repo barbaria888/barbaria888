@@ -5,7 +5,7 @@
 He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26  
 ⎈ Kubernetes · ☁️· 🧠 · ⚙️ Automation  
 </h3>
-![Profile Views](https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat)
+https://komarev.com/ghpvc/?username=barbaria888
 
 <p align="center">
 <i>Thinking in systems, building with purpose, automating with intent.</i> ✨
