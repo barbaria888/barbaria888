@@ -25,7 +25,26 @@ He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26
 🧭 I’m driven by impact, continuous learning, and the craft of reliable infrastructure — where engineering meets evolution.  
 
 ---
+---
 
+## 🚧 Currently Working On
+
+### 🔐 EduConnect – DevSecOps Kubernetes Deployment
+A production-style **DevSecOps implementation** of the EduConnect MERN platform, focused on secure cloud-native deployment and CI/CD automation.
+
+**Core Focus Areas**
+- 🔄 CI/CD pipelines with GitHub Actions / 
+- 🔐 Secret management & container security
+- 📦 Dockerized MERN services
+- 📊 Observability & monitoring foundations
+
+**Architecture Stack**
+Kubernetes • Docker • GitHub • CI/CD • Cloud Infrastructure • Secure API deployment
+
+🔗 **Repository:**  
+👉 https://github.com/Dhruvsahu1/Educonnect-D
+
+---
 ## 🧰 Tech & Tool Arsenal
 
 <p align="center">
@@ -63,6 +82,7 @@ He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26
 - 🎓 **Coursera & University Programs** – Design Thinking (UVA), Software Engineering, Front-End Apps, Git Essentials  
 
 ---
+
 
 ## ⚙️ GitHub Stats Wall  
 
