@@ -31,18 +31,54 @@ He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26
 
 ### 🔐 EduConnect – DevSecOps Kubernetes Deployment
 A production-style **DevSecOps implementation** of the EduConnect MERN platform, focused on secure cloud-native deployment and CI/CD automation.
+---
 
-**Core Focus Areas**
-- 🔄 CI/CD pipelines with GitHub Actions / 
-- 🔐 Secret management & container security
-- 📦 Dockerized MERN services
-- 📊 Observability & monitoring foundations
+## 🔐 DevSecOps CI/CD Pipeline
 
-**Architecture Stack**
-Kubernetes • Docker • GitHub • CI/CD • Cloud Infrastructure • Secure API deployment
+A security-first CI/CD pipeline where every stage validates the artifact before it moves forward — ensuring **secure, reliable, and production-ready builds**.
 
+### Pipeline Stages
+
+**🔍 Code Security — CodeQL (SAST)**  
+Static analysis scans backend and frontend code for vulnerabilities such as injection flaws, insecure authentication, hardcoded secrets, weak cryptography, and path traversal issues.
+
+**🧹 Linting — Code Quality Gate**  
+Automated linting enforces code consistency, readability, and maintainability across both application layers.
+
+**🧪 Automated Tests**  
+Functional tests validate application behavior and prevent regressions across backend and frontend services.
+
+**🐳 Docker Build**  
+Application is packaged into a **reproducible Docker image** built in a clean environment with secure credential management via GitHub Secrets.
+
+**🛡️ Container Security — Trivy Scan**  
+Docker images are scanned for **OS packages, dependencies, and critical CVEs** before being published.
+
+**📦 Artifact Distribution**  
+Verified images are pushed to **Docker Hub**, ready for deployment or promotion to runtime environments.
+
+---
+
+### 🚀 DevSecOps Principles
+
+- Security integrated directly into CI pipelines  
+- Quality gates before container packaging  
+- Vulnerability scanning before artifact distribution  
+- Automated workflows enabling a **secure software supply chain**
+
+---
+
+### 📌 Planned Improvements
+
+
+- Strict vulnerability gating on builds  
+
+- Automated deployment to Kubernetes / Cloud Run  
+
+
+---
 🔗 **Repository:**  
-👉 https://github.com/Dhruvsahu1/Educonnect-D
+👉 [https://github.com/Dhruvsahu1/Educonnect-D](https://github.com/Dhruvsahu1/Educonnect-D/tree/main/.github/workflows)
 
 ---
 ## 🧰 Tech & Tool Arsenal
