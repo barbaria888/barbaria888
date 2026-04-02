@@ -62,7 +62,7 @@ Verified images are pushed to **Docker Hub**, ready for deployment or promotion 
 - Automated deployment to Kubernetes over GKE/K3s
 ---
 🔗 **Repository:**  
-👉 [https://github.com/Dhruvsahu1/Educonnect-D](https://github.com/Dhruvsahu1/Educonnect-D/tree/main/.github/workflows)
+👉 [https://github.com/barbaria888/Educonnect-D](https://github.com/barbaria888/Educonnect-D)
 
 ---
 ## 🧰 Tech & Tool Arsenal
