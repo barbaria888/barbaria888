@@ -152,7 +152,10 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 </p>
 
 <p align="center">
-  <span style="font-size: 120px;">🦂</span>
+  <h1>🦂</h1>
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Scorpion_icon.svg/512px-Scorpion_icon.svg.png" width="120" />
 </p>
 
 <p align="center">
