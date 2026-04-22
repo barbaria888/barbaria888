@@ -144,13 +144,21 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 “The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.”  
 — Kelsey Hightower
 </blockquote>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Observers&color=0f172a&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=barbaria888&label=WATCHING&color=000000&style=for-the-badge" />
 </p>
 
 <p align="center">
-🦂
-<br/>
-<b>Observe in silence. Build in depth. Strike with precision.</b>
+  <span style="font-size: 42px;">🦂</span>
 </p>
----
+
+<p align="center">
+  <b style="font-size: 18px; letter-spacing: 1px;">
+    OBSERVE IN SILENCE · BUILD IN DEPTH · STRIKE WITH PRECISION
+  </b>
+</p>
+
+<p align="center">
+  <i>Engineered beneath the surface. Proven where it matters.</i>
+</p>
