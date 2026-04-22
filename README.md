@@ -144,11 +144,10 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 “The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.”  
 — Kelsey Hightower
 </blockquote>
-
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+🦂
 <br/>
-<i>Watch my contributions come alive 🐍</i>
+<b>Scorpion mindset: observe deeply, build silently, strike with precision.</b>
 </p>
 
 ---
