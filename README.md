@@ -145,9 +145,12 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 — Kelsey Hightower
 </blockquote>
 <p align="center">
-🦂
-<br/>
-<b>Scorpion mindset: observe deeply, build silently, strike with precision.</b>
+  <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Observers&color=0f172a&style=for-the-badge" />
 </p>
 
+<p align="center">
+🦂
+<br/>
+<b>Observe in silence. Build in depth. Strike with precision.</b>
+</p>
 ---
