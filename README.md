@@ -2,8 +2,8 @@
 
 <h1 align="center">👨‍💻 Hardik Arora</h1>
 <h3 align="center">
-He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26  
-⎈ Kubernetes · ☁️ Cloud · 🧠 Meta-Learning · ⚙️ Automation  
+He/Him · Cloud Native Enthusiast · CS '26  
+⎈ Kubernetes · ☁️ Cloud · 🧠 AI Infra · 🔐 DevSecOps  
 </h3>
 
 <p align="center">
@@ -11,51 +11,74 @@ He/Him · Aspiring Cloud Native & DevOps Engineer · CS '26
 </p>
 
 <p align="center">
-<i>Thinking in systems, building with purpose, automating with intent.</i> ✨
+<i>Designing systems that scale, securing systems that matter.</i> ✨
 </p>
 
 ---
 
 ## 💡 About Me
 
-🚀 Passionate about building **resilient, scalable cloud-native systems** using Kubernetes, Terraform, Argo CD, and CI/CD automation.  
-🌩️ Hands-on with **AWS**, **GCP**, **IBM Cloud**, **OpenShift**  
-🧭 Driven by impact, continuous learning, and the craft of reliable infrastructure — where engineering meets evolution.  
+🚀 I build **secure, scalable cloud-native systems** with a focus on **AI infrastructure and DevSecOps**.  
+☁️ Working across Kubernetes, Terraform, CI/CD, and cloud platforms to turn ideas into **production-grade systems**.  
+🔐 Currently exploring how **security integrates into AI workloads and distributed systems**.  
+
+🧭 I focus on:
+- Cloud-native architecture  
+- Infrastructure for AI workloads  
+- Secure software supply chains  
+- Observability and system reliability  
 
 ---
 
 ## 🚧 Currently Working On
 
+### 🤖 Kubernetes-Hosted AI Chatbot Infrastructure
+A **cloud-native backend system** for AI inference, designed for scalability, reliability, and real-time interaction.
+
+---
+
+### ⚙️ System Highlights
+- 🔄 WebSocket-based streaming API for real-time LLM responses  
+- 🧠 CPU-based LLM inference using Ollama (TinyLlama)  
+- 🌐 Kubernetes service discovery and internal networking  
+- ⚙️ CI/CD-driven Docker build and deployment pipeline  
+- 🛠️ Deep debugging across containers, networking, and runtime layers  
+
+---
+
 ### 🔐 EduConnect – DevSecOps Kubernetes Deployment
-A production-style **DevSecOps implementation** of the EduConnect MERN platform, focused on secure cloud-native deployment and CI/CD automation.
+A production-grade **DevSecOps + GitOps pipeline** with strong security and quality enforcement.
 
 ---
 
 ### ⚙️ Pipeline Stages
-- **🔍 Code Security — CodeQL (SAST):** Static analysis scans backend and frontend code for vulnerabilities such as injection flaws, insecure authentication, hardcoded secrets, weak cryptography, and path traversal issues.  
-- **🧹 Linting — Code Quality Gate:** Automated linting enforces code consistency, readability, and maintainability across both application layers.  
-- **🧪 Automated Tests:** Functional tests validate application behavior and prevent regressions across backend and frontend services.  
-- **🐳 Docker Build:** Application is packaged into a **reproducible Docker image** built in a clean environment with secure credential management via GitHub Secrets.  
-- **🛡️ Container Security — Trivy Scan:** Docker images are scanned for **OS packages, dependencies, and critical CVEs** before being published.  
-- **📦 Artifact Distribution:** Verified images are pushed to **Docker Hub**, ready for deployment or promotion to runtime environments.  
+- **🔍 Code Security — CodeQL (SAST):** Detects vulnerabilities (injection, secrets, auth flaws, etc.)  
+- **🧹 Linting — Code Quality Gate:** Enforces clean, maintainable code  
+- **🧪 Automated Tests:** Prevents regressions across services  
+- **🐳 Docker Build:** Secure, reproducible container builds  
+- **🛡️ Container Security — Trivy Scan:** Detects OS/package vulnerabilities & CVEs  
+- **📦 Artifact Distribution:** Pushes verified images to Docker Hub  
 
 ---
 
 ### 🚀 DevSecOps Principles
-- Security integrated directly into CI pipelines  
-- Quality gates before container packaging  
-- Vulnerability scanning before artifact distribution  
-- Automated workflows enabling a **secure software supply chain**  
-- OpenSSF Scorecard implementation  
+- Security embedded into CI/CD pipelines  
+- Shift-left vulnerability detection  
+- Secure software supply chain (SCA + SBOM)  
+- GitOps-based deployments with declarative control  
+- End-to-end pipeline gating for production readiness  
 
 ---
 
-### 📌 Planned Improvements
-- Strict vulnerability gating on builds  
-- Automated deployment to Kubernetes over GKE/K3s  
+### 📌 Current Evolution
+- ☁️ Deploying AI workloads on cloud (GCP focus)  
+- ⚡ Exploring GPU vs CPU inference tradeoffs  
+- 🔐 Strengthening runtime and API security layers  
+- 🚀 Moving toward fully automated, scalable AI platforms  
 
-🔗 **Repository:**  
-👉 [Educonnect-D](https://github.com/barbaria888/Educonnect-D)
+🔗 **Repositories:**  
+👉 https://github.com/barbaria888/Ollama-Chatbot-deployment  
+👉 https://github.com/barbaria888/Educonnect-D  
 
 ---
 
@@ -66,7 +89,6 @@ A production-style **DevSecOps implementation** of the EduConnect MERN platform,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle Cloud" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" height="60" alt="IBM Cloud" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="Terraform" /> &nbsp;
 <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" height="60" alt="Argo CD" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" height="60" alt="OpenShift" /> &nbsp;
@@ -78,15 +100,16 @@ A production-style **DevSecOps implementation** of the EduConnect MERN platform,
 
 ---
 
-## 🪪 Certifications & Badges Wall  
+## 🪪 Certifications & Learning  
 
-### ☁️ **Cloud & DevOps Certifications**
-- 🏗️ **Google Cloud** – GKE, Terraform, App Modernization, Cloud Ops  
-- 🧱 **AWS** – Cloud Technical Essentials, Cloud Practitioner Prep, Cloud 101  
-- 🔧 **IBM Cloud** – Kubernetes Essentials, CI/CD Foundations, Git & GitHub  
-- 🧿 **Oracle Cloud** – OCI Certified Foundations Associate  
-- 🦋 **CNCF Stack** – Working with GKE, Argo CD, Tekton, and OpenShift  
-- 🎓 **Coursera & University Programs** – Design Thinking (UVA), Software Engineering, Front-End Apps, Git Essentials  
+### ☁️ Cloud, Security & AI Infrastructure
+- 🏗️ Google Cloud – Architecting with GKE, Terraform, AI Infrastructure (in progress)  
+- 🔐 IBM – Application Security for Devs & DevOps (in progress)  
+- 🧱 AWS – Cloud Essentials & Practitioner Prep  
+- 🧿 Oracle Cloud – OCI Foundations Associate  
+- 🦋 CNCF Stack – Kubernetes, Argo CD, OpenShift, Tekton  
+
+🎓 Continuous learning through hands-on labs, real systems, and applied projects—not just coursework.
 
 ---
 
