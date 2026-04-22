@@ -144,6 +144,7 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 “The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.”  
 — Kelsey Hightower
 </blockquote>
+
 ---
 
 <p align="center">
@@ -163,3 +164,5 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 <p align="center">
   <i>Engineered beneath the surface. Proven where it matters.</i>
 </p>
+
+---
