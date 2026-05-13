@@ -36,95 +36,55 @@ Currently exploring the intersection of **security, AI systems, and distributed 
 
 ## 🚧 Currently Working On
 🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
-A cloud-native autonomous troubleshooting system that brings intelligence into Kubernetes operations using local AI inference, observability tools, and secure execution pipelines.
-Built to explore how AI agents can understand, reason, and safely remediate real production issues inside Kubernetes clusters.
 
-🧠 What It Does
-KubeOps-AI transforms cluster debugging into an intelligent, guided workflow:
+Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability tools, and secure execution pipelines.
 
-
-Detects issues using K8sGPT
-
-
-Reasons about root causes using local LLMs (Ollama + Gemma)
-
-
-Retrieves past incident knowledge using vector memory (ChromaDB)
-
-
-Generates safe remediation commands
-
-
-Lets operators Approve & Execute fixes from a dashboard
-
-
-
-🔄 System Flow (High-Level)
-
-
-⚙️ Core Architecture
-
-
-Frontend: React + Vite dashboard (Nginx served, internal API routing)
-
-
-Backend: FastAPI orchestration layer (agents + tools)
-
-
-AI Layer: Ollama (Gemma 2B local inference)
-
-
-Memory: ChromaDB vector store for incident recall
-
-
-Kubernetes Tools: K8sGPT + kubectl execution engine
-
-
-
-🛡️ Security & Control Model
-
-
-Guardrails prevent destructive commands
-
-
-Human-in-the-loop approval before execution
-
-
-No external API dependency for inference
-
-
-Cluster-level execution isolation via Kubernetes RBAC
-
-
-Incident history stored for traceability
-
-
-
-📌 What I’m Exploring
-
-
-Agentic AI systems for infrastructure operations
-
-
-Local LLM inference inside Kubernetes clusters
-
-
-Memory-augmented troubleshooting systems
-
-
-Secure DevSecOps automation pipelines
-
-
-GKE / K3s deployment patterns for AI workloads
-
-
-Runtime-safe AI-driven remediation systems
-
-
-🔗 Repository<br>
-https://github.com/barbaria888/KubeOps-AI
+It analyzes cluster issues, reasons about root causes, and safely suggests remediations through a human-approved workflow.
 
 ---
+
+🧠 Core Workflow
+
+- Detects issues using K8sGPT  
+- Reasons with local LLMs (Ollama + Gemma)  
+- Retrieves historical incidents via ChromaDB  
+- Generates safe kubectl remediation commands  
+- Executes only after human approval via dashboard  
+
+---
+
+⚙️ Architecture
+
+Frontend: React + Vite (Nginx-served dashboard)  
+Backend: FastAPI orchestration layer (agent-based system)  
+AI Layer: Ollama (local inference)  
+Memory: ChromaDB (incident recall + context)  
+Tools: K8sGPT + kubectl execution engine  
+
+---
+
+🛡️ Safety Model
+
+- Guardrails prevent destructive operations  
+- Human-in-the-loop approval before execution  
+- Fully local inference (no external AI APIs)  
+- RBAC-based cluster access control  
+- Auditability via stored incident history  
+
+---
+
+📌 Focus Areas
+
+- Agentic AI for infrastructure operations  
+- Local LLM deployment in Kubernetes  
+- Memory-augmented troubleshooting systems  
+- DevSecOps + secure automation pipelines  
+- Cloud-native AI system design (GKE / K3s)  
+
+---
+
+🔗 Repository  
+https://github.com/barbaria888/KubeOps-AI---
 ### 🤖 Kubernetes-Hosted AI Chatbot Infrastructure
 A **cloud-native backend system** for AI inference, designed for scalability, reliability, and real-time interaction.
 
