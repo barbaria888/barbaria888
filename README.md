@@ -51,40 +51,35 @@ It analyzes cluster issues, reasons about root causes, and safely suggests remed
 - Generates safe kubectl remediation commands  
 - Executes only after human approval via dashboard  
 
----
+
 
 ⚙️ Architecture
 
 Frontend: React + Vite (Nginx-served dashboard)  
 Backend: FastAPI orchestration layer (agent-based system)  
-AI Layer: Ollama (local inference)  
+AI Layer: Ollama (local inference) , Gemma:2b
 Memory: ChromaDB (incident recall + context)  
 Tools: K8sGPT + kubectl execution engine  
 
----
-
 🛡️ Safety Model
-
 - Guardrails prevent destructive operations  
 - Human-in-the-loop approval before execution  
 - Fully local inference (no external AI APIs)  
 - RBAC-based cluster access control  
 - Auditability via stored incident history  
 
----
-
 📌 Focus Areas
-
 - Agentic AI for infrastructure operations  
 - Local LLM deployment in Kubernetes  
 - Memory-augmented troubleshooting systems  
-- DevSecOps + secure automation pipelines  
 - Cloud-native AI system design (GKE / K3s)  
-
 ---
 
 🔗 Repository  
-https://github.com/barbaria888/KubeOps-AI---
+https://github.com/barbaria888/KubeOps-AI
+
+---
+
 ### 🤖 Kubernetes-Hosted AI Chatbot Infrastructure
 A **cloud-native backend system** for AI inference, designed for scalability, reliability, and real-time interaction.
 
