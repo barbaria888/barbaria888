@@ -1,11 +1,14 @@
 <!-- 💫 Hardik Arora's GitHub Profile README -->
 
 <h1 align="center">👨‍💻 Hardik Arora</h1>
-<h3 align="center">
-He/Him · Cloud Native Enthusiast · CS '26  
-⎈ Kubernetes · ☁️ Cloud · 🧠 AI Infra · 🔐 DevSecOps  
-</h3>
 
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Native+Engineer;Kubernetes+%7C+DevOps+%7C+AI+Infrastructure;Building+Systems+That+Scale"
+    alt="Typing SVG"
+  />
+</h2>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -85,9 +88,14 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 ## 🧰 Tech & Tool Arsenal
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="70" alt="Kubernetes" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="90" alt="Kubernetes" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="70" alt="GitHub Actions" />&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/00000" height="60" alt="Ollama" />
+
+<img src="https://k3s.io/img/k3s-logo-light.svg" height="30" alt="K3s" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle Cloud" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="Terraform" /> &nbsp;
 <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" height="60" alt="Argo CD" /> &nbsp;
