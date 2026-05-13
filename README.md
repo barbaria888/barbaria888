@@ -13,32 +13,122 @@
   <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-<i>Designing systems that scale, securing systems that matter.</i> ✨
-</p>
+---
+
+## 💡 Overview
+
+I build cloud-native systems engineered for scale, reliability, and security — with a strong focus on AI infrastructure and DevSecOps.
+
+Working across Kubernetes, Terraform, CI/CD, cloud platforms,Agentic Systems.
+I translate complex ideas into production-grade systems designed for real-world workloads.
+
+Currently exploring the intersection of **security, AI systems, and distributed cloud  infrastructure**, where resilience and intelligence converge with **optimal resource utilisation**.
 
 ---
 
-## 💡 About Me
+## 🧭 Focus Areas
 
-🚀 I build **secure, scalable cloud-native systems** with a focus on **AI infrastructure and DevSecOps**.  
-☁️ Working across Kubernetes, Terraform, CI/CD, and cloud platforms to turn ideas into **production-grade systems**.  
-🔐 Currently exploring how **security integrates into AI workloads and distributed systems**.  
-
-🧭 I focus on:
-- Cloud-native architecture  
-- Infrastructure for AI workloads  
-- Secure software supply chains  
-- Observability and system reliability  
-
+- Cloud-native system architecture
+- AI infrastructure engineering
+- Secure software supply chains
+- Observability, reliability, and runtime resilience
 ---
 
 ## 🚧 Currently Working On
+🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
+A cloud-native autonomous troubleshooting system that brings intelligence into Kubernetes operations using local AI inference, observability tools, and secure execution pipelines.
+Built to explore how AI agents can understand, reason, and safely remediate real production issues inside Kubernetes clusters.
 
+🧠 What It Does
+KubeOps-AI transforms cluster debugging into an intelligent, guided workflow:
+
+
+Detects issues using K8sGPT
+
+
+Reasons about root causes using local LLMs (Ollama + Gemma)
+
+
+Retrieves past incident knowledge using vector memory (ChromaDB)
+
+
+Generates safe remediation commands
+
+
+Lets operators Approve & Execute fixes from a dashboard
+
+
+
+🔄 System Flow (High-Level)
+
+
+⚙️ Core Architecture
+
+
+Frontend: React + Vite dashboard (Nginx served, internal API routing)
+
+
+Backend: FastAPI orchestration layer (agents + tools)
+
+
+AI Layer: Ollama (Gemma 2B local inference)
+
+
+Memory: ChromaDB vector store for incident recall
+
+
+Kubernetes Tools: K8sGPT + kubectl execution engine
+
+
+
+🛡️ Security & Control Model
+
+
+Guardrails prevent destructive commands
+
+
+Human-in-the-loop approval before execution
+
+
+No external API dependency for inference
+
+
+Cluster-level execution isolation via Kubernetes RBAC
+
+
+Incident history stored for traceability
+
+
+
+📌 What I’m Exploring
+
+
+Agentic AI systems for infrastructure operations
+
+
+Local LLM inference inside Kubernetes clusters
+
+
+Memory-augmented troubleshooting systems
+
+
+Secure DevSecOps automation pipelines
+
+
+GKE / K3s deployment patterns for AI workloads
+
+
+Runtime-safe AI-driven remediation systems
+
+
+🔗 Repository<br>
+https://github.com/barbaria888/KubeOps-AI
+
+---
 ### 🤖 Kubernetes-Hosted AI Chatbot Infrastructure
 A **cloud-native backend system** for AI inference, designed for scalability, reliability, and real-time interaction.
 
----
+
 
 ### ⚙️ System Highlights
 - 🔄 WebSocket-based streaming API for real-time LLM responses  
