@@ -1,13 +1,36 @@
 <!-- 💫 Hardik Arora's GitHub Profile README -->
 
 <h1 align="center">
-<p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
+
+
+<h1 align="center">
+
 <img 
   src="./GCP-CE.svg" 
-  height="60"
   width="60"
-  alt="GCP Compute Engine" 
-/>  Hardik Arora</p></h1>
+/><img 
+  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardik+Arora"
+  alt="Hardik Arora"
+/><img 
+  src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg"
+  width="60"
+/>
+
+</h1>
+
+
+
+
+
+
+
 
 <h2 align="center">
   <img 
@@ -16,6 +39,7 @@
   />
 </h2>
 <br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
