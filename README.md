@@ -4,7 +4,8 @@
 <p>
 <img 
   src="./GCP-CE.svg" 
-  height="140" 
+  height="60"
+  width="60"
   alt="GCP Compute Engine" 
 />  Hardik Arora</p></h1>
 
