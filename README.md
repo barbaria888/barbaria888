@@ -12,37 +12,21 @@
 
 <h1 align="center">
 
+
 <img 
-  src="./GCP-CE.svg" 
-  width="60"
-/><img 
-  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardik+Arora"
-  alt="Hardik Arora"
-/><img 
-  src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg"
-  width="60"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444,66:F59E0B,82:FACC15,92:7DD3FC,100:F8FAFC&height=220&section=header&text=Hardik%20Arora&fontSize=48&fontColor=ffffff&animation=twinkling"
 />
 
 </h1>
 
 
-
-
-
-
-
-
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Native+Engineer;Kubernetes+%7C+DevOps+%7C+AI+Infrastructure;Building+Systems+That+Scale"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=34&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Native+Engineer;Kubernetes+%7C+DevOps+%7C+AI+Infrastructure;Building+Systems+That+Scale"
     alt="Typing SVG"
   />
 </h2>
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbaria888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
