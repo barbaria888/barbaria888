@@ -52,9 +52,15 @@ Currently exploring the intersection of **security, AI systems, and distributed 
 ## 🚧 Currently Working On
 
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
 
-## 🛡️ Supply Chain Guardian AI  
+
+# 🛡️ Supply Chain Guardian AI  
 Autonomous AI-driven CVE remediation and runtime validation system for containerized workloads.
 
 Designed as a production-oriented GitHub Marketplace Action that detects vulnerabilities, generates secure Dockerfile patches using AI, validates fixes in ephemeral Kubernetes environments, and automatically opens review-ready pull requests.
@@ -126,11 +132,16 @@ Designed as a production-oriented GitHub Marketplace Action that detects vulnera
 🔗 **Repository:**  
 👉 https://github.com/barbaria888/SupplyChain-Guardian-AI-Github_Action
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
 
 
 
-🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
+# 🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
 
 Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability tools, and secure execution pipelines.
 
@@ -168,13 +179,19 @@ Tools: K8sGPT + kubectl execution engine
 - Local LLM deployment in Kubernetes  
 - Memory-augmented troubleshooting systems  
 - Cloud-native AI system design (GKE / K3s)  
----
 
 🔗 Repository  
 https://github.com/barbaria888/KubeOps-AI
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
 
-### 🔐 EduConnect – DevSecOps Kubernetes Deployment
+
+# 🔐 EduConnect – DevSecOps Kubernetes Deployment
 A production-grade **DevSecOps + GitOps pipeline** with strong security and quality enforcement.
 
 ---
@@ -197,18 +214,25 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 - End-to-end pipeline gating for production readiness  
 
 🔗 **Repository:**  
-👉 https://github.com/barbaria888/Educonnect-D  
+👉 https://github.com/Dhruvsahu1/Educonnect-D/
 
----
+
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
+
+
 
 ### 📌 Current Evolution
 - ☁️ Deploying AI workloads on cloud(GCP) and localised ai inference and model serving.
 - ⚡ Exploring real world monitoring using prometheus,grafana,otel,Datadog, metrics,traces,logs alerting.
 - 🔐 Strengthening runtime security layers, throughout the SDLC
 -   Moving toward fully automated, scalable AI platforms  
-
-
----
 
 ## 🧰 Tech & Tool Arsenal
 
