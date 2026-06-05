@@ -35,6 +35,86 @@ Currently exploring the intersection of **security, AI systems, and distributed 
 ---
 
 ## 🚧 Currently Working On
+
+
+---
+
+## 🛡️ Supply Chain Guardian AI  
+Autonomous AI-driven CVE remediation and runtime validation system for containerized workloads.
+
+Designed as a production-oriented GitHub Marketplace Action that detects vulnerabilities, generates secure Dockerfile patches using AI, validates fixes in ephemeral Kubernetes environments, and automatically opens review-ready pull requests.
+
+---
+
+### ⚙️ Core Workflow
+
+- Detects container CVEs using Trivy  
+- Generates remediation patches using local or cloud LLMs  
+- Performs Docker build smoke validation  
+- Deploys patched workloads into ephemeral KinD clusters  
+- Re-scans images to verify remediation success  
+- Creates automated pull requests with audit evidence  
+
+---
+
+### 🤖 Multi-Provider AI Engine
+
+- Local Ollama inference for zero-data-egress remediation  
+- Gemini and OpenAI integration for accelerated patch generation  
+- Model-driven Dockerfile transformation pipeline  
+- Secure side-by-side patch generation (`Dockerfile.patched`)  
+
+---
+
+### 🧠 Security & Runtime Validation
+
+- Instruction-level hallucination defense engine  
+- Docker syntax whitelist enforcement  
+- Runtime validation through KinD Kubernetes clusters  
+- CrashLoopBackOff detection and deployment verification  
+- RBAC-aware Kubernetes deployment model  
+- Secure-by-default container hardening policies  
+
+---
+
+### ⚙️ Architecture
+
+**Scanning:** Trivy + SBOM generation  
+**AI Layer:** Ollama / Gemini / OpenAI  
+**Validation:** KinD ephemeral Kubernetes clusters  
+**Orchestration:** GitHub Actions automation pipeline  
+**Compliance:** Audit logs + remediation evidence artifacts  
+
+---
+
+### 🛡️ Security Principles
+
+- Zero-trust deployment validation  
+- Human-reviewable AI remediation workflows  
+- Runtime verification before merge approval  
+- Immutable auditability for AI-generated patches  
+- Automated secure software supply-chain enforcement  
+
+---
+
+### 📌 Focus Areas
+
+- Autonomous CVE remediation systems  
+- AI-assisted infrastructure hardening  
+- Secure software supply chains  
+- Kubernetes runtime validation  
+- AI + DevSecOps convergence  
+- Self-healing infrastructure pipelines  
+
+---
+
+🔗 **Repository:**  
+👉 https://github.com/barbaria888/SupplyChain-Guardian-AI-Github_Action
+
+---
+
+
+
 🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
 
 Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability tools, and secure execution pipelines.
@@ -78,21 +158,6 @@ Tools: K8sGPT + kubectl execution engine
 🔗 Repository  
 https://github.com/barbaria888/KubeOps-AI
 
----
-
-### 🤖 Kubernetes-Hosted AI Chatbot Infrastructure
-A **cloud-native backend system** for AI inference, designed for scalability, reliability, and real-time interaction.
-
-
-
-### ⚙️ System Highlights
-- 🔄 WebSocket-based streaming API for real-time LLM responses  
-- 🧠 CPU-based LLM inference using Ollama (TinyLlama)  
-- 🌐 Kubernetes service discovery and internal networking  
-- ⚙️ CI/CD-driven Docker build and deployment pipeline  
-- 🛠️ Deep debugging across containers, networking, and runtime layers  
-
----
 
 ### 🔐 EduConnect – DevSecOps Kubernetes Deployment
 A production-grade **DevSecOps + GitOps pipeline** with strong security and quality enforcement.
@@ -116,17 +181,17 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 - GitOps-based deployments with declarative control  
 - End-to-end pipeline gating for production readiness  
 
+🔗 **Repository:**  
+👉 https://github.com/barbaria888/Educonnect-D  
+
 ---
 
 ### 📌 Current Evolution
-- ☁️ Deploying AI workloads on cloud (GCP focus)  
-- ⚡ Exploring GPU vs CPU inference tradeoffs  
-- 🔐 Strengthening runtime and API security layers  
-- 🚀 Moving toward fully automated, scalable AI platforms  
+- ☁️ Deploying AI workloads on cloud(GCP) and localised ai inference and model serving.
+- ⚡ Exploring real world monitoring using prometheus,grafana,otel,Datadog, metrics,traces,logs alerting.
+- 🔐 Strengthening runtime security layers, throughout the SDLC
+-   Moving toward fully automated, scalable AI platforms  
 
-🔗 **Repositories:**  
-👉 https://github.com/barbaria888/Ollama-Chatbot-deployment  
-👉 https://github.com/barbaria888/Educonnect-D  
 
 ---
 
@@ -191,15 +256,6 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 <a href="https://medium.com/@arorahardik0811"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 </p>
-
----
-
-## 💬 Quote to Code By
-
-<blockquote align="center">
-“The number 1 skill set is flexibility and just knowing how things work and map that to real-world context … and that makes you clever.”  
-— Kelsey Hightower
-</blockquote>
 
 ---
 
