@@ -1,11 +1,12 @@
 <!-- 💫 Hardik Arora's GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://cdn.simpleicons.org/googlegemini" height="60" alt="Gemini" />
-
-
-
-  Hardik Arora</h1>
+<p>
+<img 
+  src="./GCP-CE.svg" 
+  height="140" 
+  alt="GCP Compute Engine" 
+/>  Hardik Arora</p></h1>
 
 <h2 align="center">
   <img 
