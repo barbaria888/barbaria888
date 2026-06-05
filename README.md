@@ -1,6 +1,11 @@
 <!-- 💫 Hardik Arora's GitHub Profile README -->
 
-<h1 align="center">👨‍💻 Hardik Arora</h1>
+<h1 align="center">
+  <img src="https://cdn.simpleicons.org/googlegemini" height="60" alt="Gemini" />
+
+
+
+  Hardik Arora</h1>
 
 <h2 align="center">
   <img 
