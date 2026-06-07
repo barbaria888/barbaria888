@@ -239,6 +239,7 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="90" alt="Kubernetes" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud" /> &nbsp;
+<img src="https://raw.githubusercontent.com/barbaria888/barbaria888/main/gke-icon.png.png" height="70"alt="Google Kubernetes Engine"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" alt="AWS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="70" alt="GitHub Actions" />&nbsp;
