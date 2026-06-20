@@ -261,13 +261,12 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
 ## 🪪 Certifications & Learning  
 
 ### ☁️ Cloud, Security & AI Infrastructure
-- 🏗️ Google Cloud – Architecting with GKE, Terraform, AI Infrastructure (in progress)  
-- 🔐 IBM – Application Security for Devs & DevOps (in progress)  
-- 🧱 AWS – Cloud Essentials & Practitioner Prep  
-- 🧿 Oracle Cloud – OCI Foundations Associate  
-- 🦋 CNCF Stack – Kubernetes, Argo CD, OpenShift, Tekton  
-
-🎓 Continuous learning through hands-on labs, real systems, and applied projects—not just coursework.
+- 🏗️ **Google Cloud** – Professional Cloud Architect (PCA) & Professional Cloud DevOps Engineer Tracks, Architecting with GKE Specialization, Logging & Monitoring
+- 🔐 **IBM** – Monitoring and Observability for Development & DevOps, CI/CD pipelines (OpenShift/GitHub Actions)
+- 🛡️ **AI Security & Agents** – Model Armor: Securing AI Deployments (OWASP LLM Top 10), Model Context Protocol (MCP Tools), Google ADK Agents
+- 🧱 **AWS** – Cloud Essentials & Practitioner Professional Prep  
+- 🧿 **Oracle Cloud** – OCI Foundations Associate Certified  
+- 🦋 **Platform & GitOps** – Introduction to GitOps using Argo CD (Akuity), Vulnerability Management for Platform Engineers
 
 ---
 
