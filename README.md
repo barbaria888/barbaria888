@@ -28,7 +28,15 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444
 </h2>
 <br>
 
----
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
+    width="100%"
+  />
+</p>
+
 
 ## 💡 Overview
 
