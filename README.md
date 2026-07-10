@@ -105,36 +105,6 @@ Designed as a production-oriented GitHub Marketplace Action that detects vulnera
 - Secure-by-default container hardening policies  
 
 ---
-
-### ⚙️ Architecture
-
-**Scanning:** Trivy + SBOM generation  
-**AI Layer:** Ollama / Gemini / OpenAI  
-**Validation:** KinD ephemeral Kubernetes clusters  
-**Orchestration:** GitHub Actions automation pipeline  
-**Compliance:** Audit logs + remediation evidence artifacts  
-
----
-
-### 🛡️ Security Principles
-
-- Zero-trust deployment validation  
-- Human-reviewable AI remediation workflows  
-- Runtime verification before merge approval  
-- Immutable auditability for AI-generated patches  
-- Automated secure software supply-chain enforcement  
-
----
-
-### 📌 Focus Areas
-
-- Autonomous CVE remediation systems  
-- AI-assisted infrastructure hardening  
-- Secure software supply chains  
-- Kubernetes runtime validation  
-- AI + DevSecOps convergence  
-- Self-healing infrastructure pipelines  
-
 ---
 
 🔗 **Repository:**  
@@ -159,8 +129,8 @@ It analyzes cluster issues, reasons about root causes, and safely suggests remed
 
 🧠 Core Workflow
 
-- Detects issues using K8sGPT  
-- Reasons with local LLMs (Ollama + Gemma)  
+- Detects issues using RunWhen Codebundles  
+- Reasons with local LLMs (Ollama + Gemma)   or Nvidia nim apis (OpenAI standard)
 - Retrieves historical incidents via ChromaDB  
 - Generates safe kubectl remediation commands  
 - Executes only after human approval via dashboard  
@@ -182,12 +152,6 @@ Tools: K8sGPT + kubectl execution engine
 - RBAC-based cluster access control  
 - Auditability via stored incident history  
 
-📌 Focus Areas
-- Agentic AI for infrastructure operations  
-- Local LLM deployment in Kubernetes  
-- Memory-augmented troubleshooting systems  
-- Cloud-native AI system design (GKE / K3s)  
-
 🔗 Repository  
 https://github.com/barbaria888/KubeOps-AI
 
@@ -198,35 +162,6 @@ https://github.com/barbaria888/KubeOps-AI
   />
 </p>
 
-
-# 🔐 EduConnect – DevSecOps Kubernetes Deployment
-A production-grade **DevSecOps + GitOps pipeline** with strong security and quality enforcement.
-
----
-
-### ⚙️ Pipeline Stages
-- **🔍 Code Security — CodeQL (SAST):** Detects vulnerabilities (injection, secrets, auth flaws, etc.)  
-- **🧹 Linting — Code Quality Gate:** Enforces clean, maintainable code  
-- **🧪 Automated Tests:** Prevents regressions across services  
-- **🐳 Docker Build:** Secure, reproducible container builds  
-- **🛡️ Container Security — Trivy Scan:** Detects OS/package vulnerabilities & CVEs  
-- **📦 Artifact Distribution:** Pushes verified images to Docker Hub  
-
----
-
-### 🚀 DevSecOps Principles
-- Security embedded into CI/CD pipelines  
-- Shift-left vulnerability detection  
-- Secure software supply chain (SCA + SBOM)  
-- GitOps-based deployments with declarative control  
-- End-to-end pipeline gating for production readiness  
-
-🔗 **Repository:**  
-👉 https://github.com/Dhruvsahu1/Educonnect-D/
-
-
-
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
@@ -234,13 +169,6 @@ A production-grade **DevSecOps + GitOps pipeline** with strong security and qual
   />
 </p>
 
-
-
-### 📌 Current Evolution
-- ☁️ Deploying AI workloads on cloud(GCP) and localised ai inference and model serving.
-- ⚡ Exploring real world monitoring using prometheus,grafana,otel,Datadog, metrics,traces,logs alerting.
-- 🔐 Strengthening runtime security layers, throughout the SDLC
--   Moving toward fully automated, scalable AI platforms  
 
 ## 🧰 Tech & Tool Arsenal
 
