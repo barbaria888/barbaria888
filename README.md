@@ -1,13 +1,8 @@
 <!-- 💫 Hardik Arora's GitHub Profile README -->
 
 <h1 align="center">
+<img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
-    width="100%"
-  />
-</p>
 
 
 <h1 align="center">
@@ -252,4 +247,5 @@ https://github.com/barbaria888/KubeOps-AI
   <i>Engineered beneath the surface. Proven where it matters.</i>
 </p>
 
----
+
+<img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
