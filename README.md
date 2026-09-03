@@ -229,51 +229,25 @@ https://github.com/barbaria888/FrugalZeus
 
 ## 🪪 Certifications & Learning
 
-### ☁️ Cloud & Kubernetes
+| ☁️ Cloud & Kubernetes                                              | ⚙️ DevOps & Platform                      | 🔐 Security                                         |
+| ------------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- |
+| **Architecting with Google Kubernetes Engine — Specialization**    | **DevOps Foundation — Linux & Systems**   | **Google Cloud Security Engineer Labs**             |
+| **Architecting with Google Kubernetes Engine: Workloads**          | **Mastering Docker & Containers**         | **Model Armor — Securing AI Deployments**           |
+| **Professional Cloud Architect — Certification Preparation**       | **Application and DevSecOps**             | **Vulnerability Management for Platform Engineers** |
+| **Professional Cloud DevOps Engineer — Certification Preparation** | **Azure Pipeline Agents & Pools**         | **GKE RBAC / NetworkPolicy / Private Cluster Labs** |
+| **Observability in Google Cloud**                                  | **Monitoring & Observability for DevOps** |                                                     |
+| **Logging & Monitoring in Google Cloud**                           | **GitOps with Argo CD**                   |                                                     |
+| **Introduction to Data Engineering on Google Cloud**               |                                           |                                                     |
 
-* **Architecting with Google Kubernetes Engine — Specialization**
-* **Architecting with Google Kubernetes Engine: Workloads**
-* **Professional Cloud Architect — Certification Preparation**
-* **Professional Cloud DevOps Engineer — Certification Preparation**
-* **Observability in Google Cloud**
-* **Logging & Monitoring in Google Cloud**
-* **Introduction to Data Engineering on Google Cloud**
-
-### ⚙️ DevOps & Platform Engineering
-
-* **DevOps Foundation — Linux & Systems**
-* **Mastering Docker & Containers**
-* **Application and DevSecOps**
-* **Azure Pipeline Agents & Pools**
-* **Monitoring & Observability for DevOps**
-* **GitOps with Argo CD**
-
-### 🔐 Security
-
-* **Google Cloud Security Engineer Labs**
-* **Model Armor — Securing AI Deployments**
-* **Vulnerability Management for Platform Engineers**
-* **GKE RBAC / NetworkPolicy / Private Cluster Labs**
-
-### 🤖 AI Infrastructure
-
-* **Build & Deploy Agents in Production**
-* **MCP Tools with Google ADK Agents**
-* **Model Context Protocol**
-* **Google Agent Development Kit**
-* **OWASP LLM Security**
-* **Ollama / Gemma**
-* **Agentic Kubernetes Operations**
-
-### 🏗️ Applied Architecture
-
-* **GKE Distributed Tracing**
-* **Cloud Ops Agent**
-* **BigQuery / Dataform Pipelines**
-* **Event-driven Cloud Storage → BigQuery**
-* **Datastream → BigQuery CDC**
-* **Secure GKE Architecture**
-* **IAM / RBAC / Pod Security / NetworkPolicy**
+| 🤖 AI Infrastructure                    | 🏗️ Applied Architecture                      |
+| --------------------------------------- | --------------------------------------------- |
+| **Build & Deploy Agents in Production** | **GKE Distributed Tracing**                   |
+| **MCP Tools with Google ADK Agents**    | **Cloud Ops Agent**                           |
+| **Model Context Protocol**              | **BigQuery / Dataform Pipelines**             |
+| **Google Agent Development Kit**        | **Event-driven Cloud Storage → BigQuery**     |
+| **OWASP LLM Security**                  | **Datastream → BigQuery CDC**                 |
+| **Ollama / Gemma**                      | **Secure GKE Architecture**                   |
+| **Agentic Kubernetes Operations**       | **IAM / RBAC / Pod Security / NetworkPolicy** |
 
 ---
 
