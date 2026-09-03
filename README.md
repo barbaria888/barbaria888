@@ -28,23 +28,25 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444
 
 ## 💡 Overview
 
-I build cloud-native platforms and infrastructure systems focused on scalability, reliability, security, and operational efficiency.
+I build cloud-native platforms where **infrastructure, automation, security, and AI meet**.
 
 Working across Kubernetes, Terraform, GitOps, CI/CD, observability, DevSecOps, and AI infrastructure.
 
-I translate complex infrastructure problems into automated systems with clear operational boundaries, security controls, and measurable outcomes.
+I’m interested in one question:
 
-Currently exploring the intersection of **platform engineering, AI-powered operations, secure software supply chains, and distributed cloud infrastructure**.
+> **How do we make complex infrastructure easier to operate without making it less secure?**
+
+Currently exploring **platform engineering, autonomous operations, secure software supply chains, and distributed cloud systems**.
 
 ---
 
 ## 🧭 Focus Areas
 
-* Cloud-native platform architecture
+* Cloud-native platforms
 * Kubernetes & platform engineering
-* AI infrastructure & agentic systems
+* AI-powered operations
 * Secure software supply chains
-* GitOps, observability & reliability
+* GitOps & observability
 * Infrastructure automation & FinOps
 
 ---
@@ -60,45 +62,43 @@ Currently exploring the intersection of **platform engineering, AI-powered opera
 
 # 🛡️ Supply Chain Guardian AI
 
-Autonomous AI-driven CVE remediation and runtime validation system for containerized workloads.
+**What if a vulnerability could trigger its own remediation — and then prove the fix works?**
 
-Designed as a production-oriented GitHub Marketplace Action that detects vulnerabilities, generates secure Dockerfile patches using AI, validates fixes in ephemeral Kubernetes environments, and automatically opens review-ready pull requests.
-
----
-
-### ⚙️ Core Workflow
-
-* Detects container CVEs using Trivy
-* Generates remediation patches using local or cloud LLMs
-* Performs Docker build and smoke validation
-* Deploys patched workloads into ephemeral KinD clusters
-* Re-scans images to verify remediation success
-* Creates automated pull requests with audit evidence
+AI-driven CVE remediation pipeline for container workloads.
 
 ---
 
-### 🤖 Multi-Provider AI Engine
+### ⚙️ Workflow
 
-* Local Ollama inference for zero-data-egress remediation
-* Gemini and OpenAI integration for accelerated patch generation
-* Model-driven Dockerfile transformation pipeline
-* Secure side-by-side patch generation using `Dockerfile.patched`
+* Trivy → detect
+* LLM → patch
+* Docker → build
+* KinD → validate
+* Trivy → verify
+* GitHub → review
+
+---
+
+### 🤖 AI Layer
+
+* Ollama for local inference
+* Gemini / OpenAI providers
+* AI-generated `Dockerfile.patched`
+* Controlled transformation pipeline
 
 ---
 
-### 🧠 Security & Runtime Validation
+### 🧠 Guardrails
 
-* Instruction-level hallucination defense engine
-* Docker syntax whitelist enforcement
-* Runtime validation through KinD Kubernetes clusters
-* CrashLoopBackOff detection and deployment verification
-* RBAC-aware Kubernetes deployment model
-* Secure-by-default container hardening policies
-
----
+* Docker syntax validation
+* Hallucination defense
+* Runtime verification
+* CrashLoopBackOff detection
+* RBAC-aware execution
+* Automated PR evidence
 
 🔗 **Repository:**
-👉 https://github.com/barbaria888/SupplyChain-Guardian-AI-Github_Action
+https://github.com/barbaria888/SupplyChain-Guardian-AI-Github_Action
 
 <p align="center">
   <img 
@@ -109,39 +109,40 @@ Designed as a production-oriented GitHub Marketplace Action that detects vulnera
 
 # 🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
 
-Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability signals, and controlled execution pipelines.
+**What if Kubernetes troubleshooting could remember what happened last time?**
 
-It analyzes cluster issues, retrieves historical incident context, reasons about potential root causes, and proposes remediation through a human-approved workflow.
-
----
-
-### 🧠 Core Workflow
-
-* Detects issues using RunWhen Codebundles
-* Reasons with local LLMs using Ollama + Gemma or NVIDIA NIM APIs
-* Retrieves historical incidents through ChromaDB
-* Generates safe `kubectl` remediation commands
-* Executes remediation only after human approval
+An AI-assisted operations system combining cluster signals, historical incidents, reasoning, and controlled remediation.
 
 ---
 
-### ⚙️ Architecture
+### 🧠 Workflow
 
-Frontend: React + Vite
-Backend: FastAPI orchestration layer
-AI Layer: Ollama / Gemma 2B / NVIDIA NIM
-Memory: ChromaDB for incident recall and context
-Tools: K8sGPT + Kubernetes API + `kubectl` execution engine
+* Detect
+* Retrieve context
+* Reason
+* Propose
+* Approve
+* Remediate
 
 ---
 
-### 🛡️ Safety Model
+### ⚙️ Stack
 
-* Guardrails against destructive operations
-* Human-in-the-loop execution approval
-* Local inference for sensitive workloads
-* RBAC-based Kubernetes access
-* Persistent incident history and auditability
+React + Vite → FastAPI → AI → ChromaDB → Kubernetes
+
+Ollama / Gemma / NVIDIA NIM
+K8sGPT / Kubernetes API / `kubectl`
+
+---
+
+### 🛡️ Safety
+
+* Human approval
+* RBAC boundaries
+* Destructive-operation guardrails
+* Local inference
+* Incident history
+* Auditability
 
 🔗 **Repository:**
 https://github.com/barbaria888/KubeOps-AI
@@ -153,48 +154,44 @@ https://github.com/barbaria888/KubeOps-AI
   />
 </p>
 
-# 🏗️ FrugalZeus : Cloud-Native Internal Developer Platform Reference 
+# 🏗️ FrugalZeus — Cloud-Native Internal Developer Platform
 
- Internal Developer Platform reference architecture focused on GitOps delivery, multi-environment orchestration, observability, multi-tenancy, and FinOps.
+**What happens when developers stop managing infrastructure directly?**
 
-Designed around a **configuration-driven platform model** where application teams interact with standardized deployment interfaces rather than managing underlying infrastructure directly.
-
----
-
-### ⚙️ Platform Workflow
-
-* Application configuration through `apps/*/config.yaml`
-* Multi-environment delivery across `test` / `stage` / `prod`
-* Argo CD App-of-Apps with sync waves
-* Matrix-based ApplicationSet orchestration
-* Kubernetes / k3s execution environments
-* Terraform-based infrastructure foundations
-* Localized AWS API emulation through Floci
+A configuration-driven Internal Developer Platform reference architecture for GitOps, multi-environment delivery, observability, tenancy, and FinOps.
 
 ---
 
-### 📊 Observability & FinOps
+### ⚙️ Platform
 
-* OpenTelemetry instrumentation
-* Prometheus metrics
-* Loki log aggregation
-* Tempo distributed tracing
-* Grafana visualization
-* OpenCost namespace-level cost attribution
+`config.yaml` → Argo CD → Kubernetes
+
+* Test / Stage / Prod
+* App-of-Apps
+* ApplicationSet Matrix
+* Terraform
+* Kubernetes / k3s
+* Floci
 
 ---
 
-### 🛡️ Platform Guardrails
+### 📊 Visibility
+
+OpenTelemetry → Prometheus / Loki / Tempo → Grafana
+
+OpenCost → namespace-level cost visibility
+
+---
+
+### 🛡️ Guardrails
 
 * Namespace isolation
-* NetworkPolicy enforcement
-* ResourceQuota controls
-* LimitRange policies
-* GitOps-based configuration management
-* Standardized tenant onboarding
-* Developer-focused golden paths
-
----
+* NetworkPolicy
+* ResourceQuota
+* LimitRange
+* GitOps configuration
+* Golden paths
+* Standardized onboarding
 
 🔗 **Repository:**
 https://github.com/barbaria888/FrugalZeus
@@ -232,14 +229,51 @@ https://github.com/barbaria888/FrugalZeus
 
 ## 🪪 Certifications & Learning
 
-### ☁️ Cloud, Security & AI Infrastructure
+### ☁️ Cloud & Kubernetes
 
-* 🏗️ **Google Cloud** – Professional Cloud Architect (PCA) & Professional Cloud DevOps Engineer Tracks, Architecting with GKE Specialization, Logging & Monitoring
-* 🔐 **IBM** – Monitoring and Observability for Development & DevOps, CI/CD pipelines (OpenShift/GitHub Actions)
-* 🛡️ **AI Security & Agents** – Model Armor: Securing AI Deployments (OWASP LLM Top 10), Model Context Protocol (MCP Tools), Google ADK Agents
-* 🧱 **AWS** – Cloud Essentials & Practitioner Professional Prep
-* 🧿 **Oracle Cloud** – OCI Foundations Associate Certified
-* 🦋 **Platform & GitOps** – Introduction to GitOps using Argo CD (Akuity), Vulnerability Management for Platform Engineers
+* **Architecting with Google Kubernetes Engine — Specialization**
+* **Architecting with Google Kubernetes Engine: Workloads**
+* **Professional Cloud Architect — Certification Preparation**
+* **Professional Cloud DevOps Engineer — Certification Preparation**
+* **Observability in Google Cloud**
+* **Logging & Monitoring in Google Cloud**
+* **Introduction to Data Engineering on Google Cloud**
+
+### ⚙️ DevOps & Platform Engineering
+
+* **DevOps Foundation — Linux & Systems**
+* **Mastering Docker & Containers**
+* **Application and DevSecOps**
+* **Azure Pipeline Agents & Pools**
+* **Monitoring & Observability for DevOps**
+* **GitOps with Argo CD**
+
+### 🔐 Security
+
+* **Google Cloud Security Engineer Labs**
+* **Model Armor — Securing AI Deployments**
+* **Vulnerability Management for Platform Engineers**
+* **GKE RBAC / NetworkPolicy / Private Cluster Labs**
+
+### 🤖 AI Infrastructure
+
+* **Build & Deploy Agents in Production**
+* **MCP Tools with Google ADK Agents**
+* **Model Context Protocol**
+* **Google Agent Development Kit**
+* **OWASP LLM Security**
+* **Ollama / Gemma**
+* **Agentic Kubernetes Operations**
+
+### 🏗️ Applied Architecture
+
+* **GKE Distributed Tracing**
+* **Cloud Ops Agent**
+* **BigQuery / Dataform Pipelines**
+* **Event-driven Cloud Storage → BigQuery**
+* **Datastream → BigQuery CDC**
+* **Secure GKE Architecture**
+* **IAM / RBAC / Pod Security / NetworkPolicy**
 
 ---
 
