@@ -3,17 +3,13 @@
 <h1 align="center">
 <img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
 
-
-
 <h1 align="center">
-
 
 <img 
 src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444,66:F59E0B,82:FACC15,92:7DD3FC,100:F8FAFC&height=220&section=header&text=Hardik%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn"
 />
 
 </h1>
-
 
 <h2 align="center">
   <img 
@@ -23,8 +19,6 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444
 </h2>
 <br>
 
-
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
@@ -32,28 +26,30 @@ src="https://capsule-render.vercel.app/api?type=rounded&color=0:991B1B,34:EF4444
   />
 </p>
 
-
 ## 💡 Overview
 
-I build cloud-native systems engineered for scale, reliability, and security — with a strong focus on AI infrastructure and DevSecOps.
+I build cloud-native platforms and infrastructure systems focused on scalability, reliability, security, and operational efficiency.
 
-Working across Kubernetes, Terraform, CI/CD, cloud platforms,Agentic Systems.
-I translate complex ideas into production-grade systems designed for real-world workloads.
+Working across Kubernetes, Terraform, GitOps, CI/CD, observability, DevSecOps, and AI infrastructure.
 
-Currently exploring the intersection of **security, AI systems, and distributed cloud  infrastructure**, where resilience and intelligence converge with **optimal resource utilisation**.
+I translate complex infrastructure problems into automated systems with clear operational boundaries, security controls, and measurable outcomes.
+
+Currently exploring the intersection of **platform engineering, AI-powered operations, secure software supply chains, and distributed cloud infrastructure**.
 
 ---
 
 ## 🧭 Focus Areas
 
-- Cloud-native system architecture
-- AI infrastructure engineering
-- Secure software supply chains
-- Observability, reliability, and runtime resilience
+* Cloud-native platform architecture
+* Kubernetes & platform engineering
+* AI infrastructure & agentic systems
+* Secure software supply chains
+* GitOps, observability & reliability
+* Infrastructure automation & FinOps
+
 ---
 
 ## 🚧 Currently Working On
-
 
 <p align="center">
   <img 
@@ -62,8 +58,8 @@ Currently exploring the intersection of **security, AI systems, and distributed 
   />
 </p>
 
+# 🛡️ Supply Chain Guardian AI
 
-# 🛡️ Supply Chain Guardian AI  
 Autonomous AI-driven CVE remediation and runtime validation system for containerized workloads.
 
 Designed as a production-oriented GitHub Marketplace Action that detects vulnerabilities, generates secure Dockerfile patches using AI, validates fixes in ephemeral Kubernetes environments, and automatically opens review-ready pull requests.
@@ -72,37 +68,36 @@ Designed as a production-oriented GitHub Marketplace Action that detects vulnera
 
 ### ⚙️ Core Workflow
 
-- Detects container CVEs using Trivy  
-- Generates remediation patches using local or cloud LLMs  
-- Performs Docker build smoke validation  
-- Deploys patched workloads into ephemeral KinD clusters  
-- Re-scans images to verify remediation success  
-- Creates automated pull requests with audit evidence  
+* Detects container CVEs using Trivy
+* Generates remediation patches using local or cloud LLMs
+* Performs Docker build and smoke validation
+* Deploys patched workloads into ephemeral KinD clusters
+* Re-scans images to verify remediation success
+* Creates automated pull requests with audit evidence
 
 ---
 
 ### 🤖 Multi-Provider AI Engine
 
-- Local Ollama inference for zero-data-egress remediation  
-- Gemini and OpenAI integration for accelerated patch generation  
-- Model-driven Dockerfile transformation pipeline  
-- Secure side-by-side patch generation (`Dockerfile.patched`)  
+* Local Ollama inference for zero-data-egress remediation
+* Gemini and OpenAI integration for accelerated patch generation
+* Model-driven Dockerfile transformation pipeline
+* Secure side-by-side patch generation using `Dockerfile.patched`
 
 ---
 
 ### 🧠 Security & Runtime Validation
 
-- Instruction-level hallucination defense engine  
-- Docker syntax whitelist enforcement  
-- Runtime validation through KinD Kubernetes clusters  
-- CrashLoopBackOff detection and deployment verification  
-- RBAC-aware Kubernetes deployment model  
-- Secure-by-default container hardening policies  
+* Instruction-level hallucination defense engine
+* Docker syntax whitelist enforcement
+* Runtime validation through KinD Kubernetes clusters
+* CrashLoopBackOff detection and deployment verification
+* RBAC-aware Kubernetes deployment model
+* Secure-by-default container hardening policies
 
 ---
----
 
-🔗 **Repository:**  
+🔗 **Repository:**
 👉 https://github.com/barbaria888/SupplyChain-Guardian-AI-Github_Action
 
 <p align="center">
@@ -112,42 +107,43 @@ Designed as a production-oriented GitHub Marketplace Action that detects vulnera
   />
 </p>
 
-
-
 # 🤖 KubeOps-AI — Agentic AI for Kubernetes Operations
 
-Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability tools, and secure execution pipelines.
+Cloud-native autonomous system for Kubernetes troubleshooting using local AI, observability signals, and controlled execution pipelines.
 
-It analyzes cluster issues, reasons about root causes, and safely suggests remediations through a human-approved workflow.
+It analyzes cluster issues, retrieves historical incident context, reasons about potential root causes, and proposes remediation through a human-approved workflow.
 
 ---
 
-🧠 Core Workflow
+### 🧠 Core Workflow
 
-- Detects issues using RunWhen Codebundles  
-- Reasons with local LLMs (Ollama + Gemma)   or Nvidia nim apis (OpenAI standard)
-- Retrieves historical incidents via ChromaDB  
-- Generates safe kubectl remediation commands  
-- Executes only after human approval via dashboard  
+* Detects issues using RunWhen Codebundles
+* Reasons with local LLMs using Ollama + Gemma or NVIDIA NIM APIs
+* Retrieves historical incidents through ChromaDB
+* Generates safe `kubectl` remediation commands
+* Executes remediation only after human approval
 
+---
 
+### ⚙️ Architecture
 
-⚙️ Architecture
+Frontend: React + Vite
+Backend: FastAPI orchestration layer
+AI Layer: Ollama / Gemma 2B / NVIDIA NIM
+Memory: ChromaDB for incident recall and context
+Tools: K8sGPT + Kubernetes API + `kubectl` execution engine
 
-Frontend: React + Vite (Nginx-served dashboard)  
-Backend: FastAPI orchestration layer (agent-based system)  
-AI Layer: Ollama (local inference) , Gemma:2b
-Memory: ChromaDB (incident recall + context)  
-Tools: K8sGPT + kubectl execution engine  
+---
 
-🛡️ Safety Model
-- Guardrails prevent destructive operations  
-- Human-in-the-loop approval before execution  
-- Fully local inference (no external AI APIs)  
-- RBAC-based cluster access control  
-- Auditability via stored incident history  
+### 🛡️ Safety Model
 
-🔗 Repository  
+* Guardrails against destructive operations
+* Human-in-the-loop execution approval
+* Local inference for sensitive workloads
+* RBAC-based Kubernetes access
+* Persistent incident history and auditability
+
+🔗 **Repository:**
 https://github.com/barbaria888/KubeOps-AI
 
 <p align="center">
@@ -157,13 +153,58 @@ https://github.com/barbaria888/KubeOps-AI
   />
 </p>
 
+# 🏗️ FrugalZeus : Cloud-Native Internal Developer Platform Reference 
+
+ Internal Developer Platform reference architecture focused on GitOps delivery, multi-environment orchestration, observability, multi-tenancy, and FinOps.
+
+Designed around a **configuration-driven platform model** where application teams interact with standardized deployment interfaces rather than managing underlying infrastructure directly.
+
+---
+
+### ⚙️ Platform Workflow
+
+* Application configuration through `apps/*/config.yaml`
+* Multi-environment delivery across `test` / `stage` / `prod`
+* Argo CD App-of-Apps with sync waves
+* Matrix-based ApplicationSet orchestration
+* Kubernetes / k3s execution environments
+* Terraform-based infrastructure foundations
+* Localized AWS API emulation through Floci
+
+---
+
+### 📊 Observability & FinOps
+
+* OpenTelemetry instrumentation
+* Prometheus metrics
+* Loki log aggregation
+* Tempo distributed tracing
+* Grafana visualization
+* OpenCost namespace-level cost attribution
+
+---
+
+### 🛡️ Platform Guardrails
+
+* Namespace isolation
+* NetworkPolicy enforcement
+* ResourceQuota controls
+* LimitRange policies
+* GitOps-based configuration management
+* Standardized tenant onboarding
+* Developer-focused golden paths
+
+---
+
+🔗 **Repository:**
+https://github.com/barbaria888/FrugalZeus
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
     width="100%"
   />
 </p>
-
 
 ## 🧰 Tech & Tool Arsenal
 
@@ -189,19 +230,20 @@ https://github.com/barbaria888/KubeOps-AI
 
 ---
 
-## 🪪 Certifications & Learning  
+## 🪪 Certifications & Learning
 
 ### ☁️ Cloud, Security & AI Infrastructure
-- 🏗️ **Google Cloud** – Professional Cloud Architect (PCA) & Professional Cloud DevOps Engineer Tracks, Architecting with GKE Specialization, Logging & Monitoring
-- 🔐 **IBM** – Monitoring and Observability for Development & DevOps, CI/CD pipelines (OpenShift/GitHub Actions)
-- 🛡️ **AI Security & Agents** – Model Armor: Securing AI Deployments (OWASP LLM Top 10), Model Context Protocol (MCP Tools), Google ADK Agents
-- 🧱 **AWS** – Cloud Essentials & Practitioner Professional Prep  
-- 🧿 **Oracle Cloud** – OCI Foundations Associate Certified  
-- 🦋 **Platform & GitOps** – Introduction to GitOps using Argo CD (Akuity), Vulnerability Management for Platform Engineers
+
+* 🏗️ **Google Cloud** – Professional Cloud Architect (PCA) & Professional Cloud DevOps Engineer Tracks, Architecting with GKE Specialization, Logging & Monitoring
+* 🔐 **IBM** – Monitoring and Observability for Development & DevOps, CI/CD pipelines (OpenShift/GitHub Actions)
+* 🛡️ **AI Security & Agents** – Model Armor: Securing AI Deployments (OWASP LLM Top 10), Model Context Protocol (MCP Tools), Google ADK Agents
+* 🧱 **AWS** – Cloud Essentials & Practitioner Professional Prep
+* 🧿 **Oracle Cloud** – OCI Foundations Associate Certified
+* 🦋 **Platform & GitOps** – Introduction to GitOps using Argo CD (Akuity), Vulnerability Management for Platform Engineers
 
 ---
 
-## ⚙️ GitHub Stats Wall  
+## ⚙️ GitHub Stats Wall
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=barbaria888&show_icons=true&theme=radical&hide_border=true" height="165" /> &nbsp;
@@ -246,6 +288,5 @@ https://github.com/barbaria888/KubeOps-AI
 <p align="center">
   <i>Engineered beneath the surface. Proven where it matters.</i>
 </p>
-
 
 <img width="1500" height="27" alt="seperator" src="https://github.com/user-attachments/assets/4d6c5f41-bf43-4f0c-8768-60582937ad58" />
