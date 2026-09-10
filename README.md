@@ -154,7 +154,7 @@ https://github.com/barbaria888/KubeOps-AI
   />
 </p>
 
-# 🏗️ FrugalZeus — Cloud-Native Internal Developer Platform
+# ⚜️ FrugalZeus — Cloud-Native Internal Developer Platform
 
 **What happens when developers stop managing infrastructure directly?**
 
